@@ -1,0 +1,10 @@
+{"SubjectEntityID": "Q615", "SubjectEntity": "Lionel Messi", "ObjectEntities": ["Antonela Roccuzzo"], "ObjectEntitiesID": ["Q32999543"], "Relation": "PersonHasSpouse", "Score": 0.8884520249566212}
+{"SubjectEntityID": "Q11975", "SubjectEntity": "Britney Spears", "ObjectEntities": ["Sam Asghari", "Jason Allen Alexander", "Kevin Federline"], "ObjectEntitiesID": ["Q107406565", "Q27949402", "Q215497"], "Relation": "PersonHasSpouse", "Score": 0.6410611574938163}
+{"SubjectEntityID": "Q5812", "SubjectEntity": "Novak Djokovic", "ObjectEntities": ["Jelena Djokovic"], "ObjectEntitiesID": ["Q17291251"], "Relation": "PersonHasSpouse", "Score": 0.6053508763971228}
+{"SubjectEntityID": "Q1426", "SubjectEntity": "Roger Federer", "ObjectEntities": ["Mirka Federer"], "ObjectEntitiesID": ["Q233306"], "Relation": "PersonHasSpouse", "Score": 0.5818737113320751}
+{"SubjectEntityID": "Q4725343", "SubjectEntity": "Alia Bhatt", "ObjectEntities": ["Ranbir Kapoor"], "ObjectEntitiesID": ["Q1063412"], "Relation": "PersonHasSpouse", "Score": 0.39281213201503024}
+{"SubjectEntityID": "Q1924847", "SubjectEntity": "Margot Robbie", "ObjectEntities": ["Tom Ackerley"], "ObjectEntitiesID": ["Q29222955"], "Relation": "PersonHasSpouse", "Score": 0.3502440417458362}
+{"SubjectEntityID": "Q215546", "SubjectEntity": "Carrie Underwood", "ObjectEntities": ["Mike Fisher"], "ObjectEntitiesID": ["Q945715"], "Relation": "PersonHasSpouse", "Score": 0.33642900054515623}
+{"SubjectEntityID": "Q36812", "SubjectEntity": "William, Prince of Wales", "ObjectEntities": ["Catherine", "Princess of Wales"], "ObjectEntitiesID": ["Q10479"], "Relation": "PersonHasSpouse", "Score": 0.3344861098536662}
+{"SubjectEntityID": "Q162202", "SubjectEntity": "Nicki Minaj", "ObjectEntities": ["Kenneth Petty"], "ObjectEntitiesID": ["Q71948883"], "Relation": "PersonHasSpouse", "Score": 0.31769478323520245}
+{"SubjectEntityID": "Q44379", "SubjectEntity": "The Miz", "ObjectEntities": ["Maryse"], "ObjectEntitiesID": ["Q229689"], "Relation": "PersonHasSpouse", "Score": 0.2759976356804827}

@@ -1,0 +1,10 @@
+{"SubjectEntityID": "Q25369", "SubjectEntity": "Kobe Bryant", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Score": 1.0}
+{"SubjectEntityID": "Q36812", "SubjectEntity": "William, Prince of Wales", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Score": 0.8065141795121057}
+{"SubjectEntityID": "Q42493", "SubjectEntity": "Katy Perry", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Score": 0.7977781575689673}
+{"SubjectEntityID": "Q54314", "SubjectEntity": "Chris Hemsworth", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Score": 0.6004554626045583}
+{"SubjectEntityID": "Q2087610", "SubjectEntity": "Mahesh Babu", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Score": 0.565635154980517}
+{"SubjectEntityID": "Q17712353", "SubjectEntity": "Nayib Bukele", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Score": 0.21828887092571178}
+{"SubjectEntityID": "Q13628723", "SubjectEntity": "Jared Kushner", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Score": 0.19224057481956364}
+{"SubjectEntityID": "Q1254", "SubjectEntity": "Kofi Annan", "ObjectEntities": ["Nobel Peace Prize"], "ObjectEntitiesID": ["Q35637"], "Relation": "PersonHasNoblePrize", "Score": 0.18996766181498626}
+{"SubjectEntityID": "Q34189", "SubjectEntity": "Pablo Neruda", "ObjectEntities": ["Nobel Prize in Literature"], "ObjectEntitiesID": ["Q37922"], "Relation": "PersonHasNoblePrize", "Score": 0.18396632743047128}
+{"SubjectEntityID": "Q3418709", "SubjectEntity": "Rana Daggubati", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Score": 0.1823489051251731}

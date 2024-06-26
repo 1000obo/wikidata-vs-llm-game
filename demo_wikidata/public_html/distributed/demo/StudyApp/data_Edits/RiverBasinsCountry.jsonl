@@ -1,0 +1,97 @@
+{"SubjectEntityID": "Q2251", "SubjectEntity": "Columbia River", "ObjectEntities": ["Canada", "United States of America"], "ObjectEntitiesID": ["Q16", "Q30"], "Relation": "RiverBasinsCountry", "Edits": 3387}
+{"SubjectEntityID": "Q584", "SubjectEntity": "Rhine", "ObjectEntities": ["Switzerland", "Germany", "Netherlands", "France", "Liechtenstein"], "ObjectEntitiesID": ["Q39", "Q183", "Q55", "Q142", "Q347"], "Relation": "RiverBasinsCountry", "Edits": 3034}
+{"SubjectEntityID": "Q179444", "SubjectEntity": "Potomac River", "ObjectEntities": ["United States of America"], "ObjectEntitiesID": ["Q30"], "Relation": "RiverBasinsCountry", "Edits": 2094}
+{"SubjectEntityID": "Q183078", "SubjectEntity": "Murray River", "ObjectEntities": ["Australia"], "ObjectEntitiesID": ["Q408"], "Relation": "RiverBasinsCountry", "Edits": 1879}
+{"SubjectEntityID": "Q626", "SubjectEntity": "Volga", "ObjectEntities": ["Russia"], "ObjectEntitiesID": ["Q159"], "Relation": "RiverBasinsCountry", "Edits": 1727}
+{"SubjectEntityID": "Q35591", "SubjectEntity": "Tigris", "ObjectEntities": ["Turkey"], "ObjectEntitiesID": ["Q43"], "Relation": "RiverBasinsCountry", "Edits": 1601}
+{"SubjectEntityID": "Q131071", "SubjectEntity": "Willamette River", "ObjectEntities": ["United States of America"], "ObjectEntitiesID": ["Q30"], "Relation": "RiverBasinsCountry", "Edits": 1465}
+{"SubjectEntityID": "Q40855", "SubjectEntity": "Dnieper", "ObjectEntities": ["Russia", "Ukraine", "Belarus"], "ObjectEntitiesID": ["Q159", "Q212", "Q184"], "Relation": "RiverBasinsCountry", "Edits": 1378}
+{"SubjectEntityID": "Q643", "SubjectEntity": "Po", "ObjectEntities": ["Italy", "Switzerland", "France"], "ObjectEntitiesID": ["Q38", "Q39", "Q142"], "Relation": "RiverBasinsCountry", "Edits": 1184}
+{"SubjectEntityID": "Q548", "SubjectEntity": "Vistula", "ObjectEntities": ["Poland"], "ObjectEntitiesID": ["Q36"], "Relation": "RiverBasinsCountry", "Edits": 1150}
+{"SubjectEntityID": "Q8319", "SubjectEntity": "Arkansas River", "ObjectEntities": ["United States of America"], "ObjectEntitiesID": ["Q30"], "Relation": "RiverBasinsCountry", "Edits": 1015}
+{"SubjectEntityID": "Q1644", "SubjectEntity": "Elbe", "ObjectEntities": ["Poland", "Austria", "Czech Republic", "Germany"], "ObjectEntitiesID": ["Q36", "Q40", "Q213", "Q183"], "Relation": "RiverBasinsCountry", "Edits": 844}
+{"SubjectEntityID": "Q552", "SubjectEntity": "Oder", "ObjectEntities": ["Poland", "Czech Republic", "Germany"], "ObjectEntitiesID": ["Q36", "Q213", "Q183"], "Relation": "RiverBasinsCountry", "Edits": 743}
+{"SubjectEntityID": "Q156032", "SubjectEntity": "Red River", "ObjectEntities": ["United States of America"], "ObjectEntitiesID": ["Q30"], "Relation": "RiverBasinsCountry", "Edits": 701}
+{"SubjectEntityID": "Q55500", "SubjectEntity": "Han River", "ObjectEntities": ["South Korea"], "ObjectEntitiesID": ["Q884"], "Relation": "RiverBasinsCountry", "Edits": 697}
+{"SubjectEntityID": "Q127892", "SubjectEntity": "Paran\u00e1 River", "ObjectEntities": ["Brazil", "Argentina", "Paraguay", "Bolivia"], "ObjectEntitiesID": ["Q155", "Q414", "Q733", "Q750"], "Relation": "RiverBasinsCountry", "Edits": 670}
+{"SubjectEntityID": "Q882739", "SubjectEntity": "Blue Nile", "ObjectEntities": ["Ethiopia"], "ObjectEntitiesID": ["Q115"], "Relation": "RiverBasinsCountry", "Edits": 654}
+{"SubjectEntityID": "Q134350", "SubjectEntity": "Tisza", "ObjectEntities": ["Ukraine"], "ObjectEntitiesID": ["Q212"], "Relation": "RiverBasinsCountry", "Edits": 637}
+{"SubjectEntityID": "Q216875", "SubjectEntity": "Chenab River", "ObjectEntities": ["Pakistan", "India"], "ObjectEntitiesID": ["Q843", "Q668"], "Relation": "RiverBasinsCountry", "Edits": 624}
+{"SubjectEntityID": "Q374772", "SubjectEntity": "Yellowstone River", "ObjectEntities": ["United States of America"], "ObjectEntitiesID": ["Q30"], "Relation": "RiverBasinsCountry", "Edits": 599}
+{"SubjectEntityID": "Q173017", "SubjectEntity": "Limpopo River", "ObjectEntities": ["Botswana"], "ObjectEntitiesID": ["Q963"], "Relation": "RiverBasinsCountry", "Edits": 512}
+{"SubjectEntityID": "Q60974", "SubjectEntity": "Ottawa River", "ObjectEntities": ["Canada"], "ObjectEntitiesID": ["Q16"], "Relation": "RiverBasinsCountry", "Edits": 479}
+{"SubjectEntityID": "Q201463", "SubjectEntity": "Pearl River", "ObjectEntities": ["People's Republic of China"], "ObjectEntitiesID": ["Q148"], "Relation": "RiverBasinsCountry", "Edits": 458}
+{"SubjectEntityID": "Q128102", "SubjectEntity": "Irtysh", "ObjectEntities": ["Russia"], "ObjectEntitiesID": ["Q159"], "Relation": "RiverBasinsCountry", "Edits": 432}
+{"SubjectEntityID": "Q847785", "SubjectEntity": "Colorado River", "ObjectEntities": ["United States of America"], "ObjectEntitiesID": ["Q30"], "Relation": "RiverBasinsCountry", "Edits": 399}
+{"SubjectEntityID": "Q179396", "SubjectEntity": "Paraguay River", "ObjectEntities": ["Brazil", "Argentina", "Paraguay"], "ObjectEntitiesID": ["Q155", "Q414", "Q733"], "Relation": "RiverBasinsCountry", "Edits": 363}
+{"SubjectEntityID": "Q206850", "SubjectEntity": "Red River", "ObjectEntities": ["People's Republic of China", "Vietnam"], "ObjectEntitiesID": ["Q148", "Q881"], "Relation": "RiverBasinsCountry", "Edits": 344}
+{"SubjectEntityID": "Q142148", "SubjectEntity": "S\u00e3o Francisco River", "ObjectEntities": ["Brazil"], "ObjectEntitiesID": ["Q155"], "Relation": "RiverBasinsCountry", "Edits": 324}
+{"SubjectEntityID": "Q192567", "SubjectEntity": "Ili River", "ObjectEntities": ["People's Republic of China", "Kazakhstan"], "ObjectEntitiesID": ["Q148", "Q232"], "Relation": "RiverBasinsCountry", "Edits": 321}
+{"SubjectEntityID": "Q187834", "SubjectEntity": "Sa\u00f4ne", "ObjectEntities": ["France"], "ObjectEntitiesID": ["Q142"], "Relation": "RiverBasinsCountry", "Edits": 309}
+{"SubjectEntityID": "Q118251", "SubjectEntity": "Madeira River", "ObjectEntities": ["Brazil", "Peru", "Bolivia"], "ObjectEntitiesID": ["Q155", "Q419", "Q750"], "Relation": "RiverBasinsCountry", "Edits": 302}
+{"SubjectEntityID": "Q257785", "SubjectEntity": "K\u0131z\u0131l\u0131rmak River", "ObjectEntities": ["Turkey"], "ObjectEntitiesID": ["Q43"], "Relation": "RiverBasinsCountry", "Edits": 277}
+{"SubjectEntityID": "Q14369", "SubjectEntity": "Inn", "ObjectEntities": ["Switzerland", "Austria", "Germany"], "ObjectEntitiesID": ["Q39", "Q40", "Q183"], "Relation": "RiverBasinsCountry", "Edits": 266}
+{"SubjectEntityID": "Q18612", "SubjectEntity": "Segura", "ObjectEntities": ["Spain"], "ObjectEntitiesID": ["Q29"], "Relation": "RiverBasinsCountry", "Edits": 259}
+{"SubjectEntityID": "Q82776", "SubjectEntity": "Terek", "ObjectEntities": ["Russia", "Georgia"], "ObjectEntitiesID": ["Q159", "Q230"], "Relation": "RiverBasinsCountry", "Edits": 250}
+{"SubjectEntityID": "Q14366", "SubjectEntity": "Ticino", "ObjectEntities": ["Switzerland"], "ObjectEntitiesID": ["Q39"], "Relation": "RiverBasinsCountry", "Edits": 242}
+{"SubjectEntityID": "Q4107580", "SubjectEntity": "Verde River", "ObjectEntities": ["United States of America"], "ObjectEntitiesID": ["Q30"], "Relation": "RiverBasinsCountry", "Edits": 223}
+{"SubjectEntityID": "Q737240", "SubjectEntity": "Tartar", "ObjectEntities": ["Azerbaijan"], "ObjectEntitiesID": ["Q227"], "Relation": "RiverBasinsCountry", "Edits": 220}
+{"SubjectEntityID": "Q214811", "SubjectEntity": "Arge\u0219 River", "ObjectEntities": ["Romania"], "ObjectEntitiesID": ["Q218"], "Relation": "RiverBasinsCountry", "Edits": 215}
+{"SubjectEntityID": "Q121538", "SubjectEntity": "Torne River", "ObjectEntities": ["Norway", "Finland", "Sweden"], "ObjectEntitiesID": ["Q20", "Q33", "Q34"], "Relation": "RiverBasinsCountry", "Edits": 213}
+{"SubjectEntityID": "Q207777", "SubjectEntity": "Ussuri", "ObjectEntities": ["Russia"], "ObjectEntitiesID": ["Q159"], "Relation": "RiverBasinsCountry", "Edits": 202}
+{"SubjectEntityID": "Q191635", "SubjectEntity": "Iguazu River", "ObjectEntities": ["Brazil"], "ObjectEntitiesID": ["Q155"], "Relation": "RiverBasinsCountry", "Edits": 200}
+{"SubjectEntityID": "Q1996981", "SubjectEntity": "Akhurian River", "ObjectEntities": ["Turkey", "Armenia"], "ObjectEntitiesID": ["Q43", "Q399"], "Relation": "RiverBasinsCountry", "Edits": 200}
+{"SubjectEntityID": "Q7811968", "SubjectEntity": "Toccoa River", "ObjectEntities": ["United States of America"], "ObjectEntitiesID": ["Q30"], "Relation": "RiverBasinsCountry", "Edits": 199}
+{"SubjectEntityID": "Q26428", "SubjectEntity": "Nizhnyaya Tunguska", "ObjectEntities": ["Russia"], "ObjectEntitiesID": ["Q159"], "Relation": "RiverBasinsCountry", "Edits": 196}
+{"SubjectEntityID": "Q171847", "SubjectEntity": "Araguaia River", "ObjectEntities": ["Brazil"], "ObjectEntitiesID": ["Q155"], "Relation": "RiverBasinsCountry", "Edits": 192}
+{"SubjectEntityID": "Q207927", "SubjectEntity": "Berezina River", "ObjectEntities": ["Belarus"], "ObjectEntitiesID": ["Q184"], "Relation": "RiverBasinsCountry", "Edits": 185}
+{"SubjectEntityID": "Q155841", "SubjectEntity": "Lech", "ObjectEntities": ["Austria"], "ObjectEntitiesID": ["Q40"], "Relation": "RiverBasinsCountry", "Edits": 180}
+{"SubjectEntityID": "Q522100", "SubjectEntity": "Cetina", "ObjectEntities": ["Croatia"], "ObjectEntitiesID": ["Q224"], "Relation": "RiverBasinsCountry", "Edits": 178}
+{"SubjectEntityID": "Q135477", "SubjectEntity": "Chari River", "ObjectEntities": ["Central African Republic"], "ObjectEntitiesID": ["Q929"], "Relation": "RiverBasinsCountry", "Edits": 171}
+{"SubjectEntityID": "Q530479", "SubjectEntity": "Mara River", "ObjectEntities": ["Kenya"], "ObjectEntitiesID": ["Q114"], "Relation": "RiverBasinsCountry", "Edits": 164}
+{"SubjectEntityID": "Q726693", "SubjectEntity": "Ialomi\u021ba River", "ObjectEntities": ["Romania"], "ObjectEntitiesID": ["Q218"], "Relation": "RiverBasinsCountry", "Edits": 158}
+{"SubjectEntityID": "Q26433", "SubjectEntity": "Vilyuy", "ObjectEntities": ["Russia"], "ObjectEntitiesID": ["Q159"], "Relation": "RiverBasinsCountry", "Edits": 146}
+{"SubjectEntityID": "Q2717931", "SubjectEntity": "Ross River", "ObjectEntities": ["Australia"], "ObjectEntitiesID": ["Q408"], "Relation": "RiverBasinsCountry", "Edits": 144}
+{"SubjectEntityID": "Q27035", "SubjectEntity": "Grijalva River", "ObjectEntities": ["Mexico"], "ObjectEntitiesID": ["Q96"], "Relation": "RiverBasinsCountry", "Edits": 134}
+{"SubjectEntityID": "Q152661", "SubjectEntity": "Salzach", "ObjectEntities": ["Austria"], "ObjectEntitiesID": ["Q40"], "Relation": "RiverBasinsCountry", "Edits": 134}
+{"SubjectEntityID": "Q1046685", "SubjectEntity": "Gan River", "ObjectEntities": ["People's Republic of China"], "ObjectEntitiesID": ["Q148"], "Relation": "RiverBasinsCountry", "Edits": 131}
+{"SubjectEntityID": "Q1807293", "SubjectEntity": "Para\u00edba do Sul River", "ObjectEntities": ["Brazil"], "ObjectEntitiesID": ["Q155"], "Relation": "RiverBasinsCountry", "Edits": 129}
+{"SubjectEntityID": "Q117526", "SubjectEntity": "Juru\u00e1 River", "ObjectEntities": ["Brazil"], "ObjectEntitiesID": ["Q155"], "Relation": "RiverBasinsCountry", "Edits": 129}
+{"SubjectEntityID": "Q1165761", "SubjectEntity": "Branco River", "ObjectEntities": ["Brazil"], "ObjectEntitiesID": ["Q155"], "Relation": "RiverBasinsCountry", "Edits": 127}
+{"SubjectEntityID": "Q608602", "SubjectEntity": "J\u00f6kuls\u00e1 \u00e1 Fj\u00f6llum", "ObjectEntities": ["Iceland"], "ObjectEntitiesID": ["Q189"], "Relation": "RiverBasinsCountry", "Edits": 123}
+{"SubjectEntityID": "Q8498", "SubjectEntity": "Arghandab River", "ObjectEntities": ["Afghanistan"], "ObjectEntitiesID": ["Q889"], "Relation": "RiverBasinsCountry", "Edits": 119}
+{"SubjectEntityID": "Q1266640", "SubjectEntity": "Kok River", "ObjectEntities": ["Thailand"], "ObjectEntitiesID": ["Q869"], "Relation": "RiverBasinsCountry", "Edits": 119}
+{"SubjectEntityID": "Q836812", "SubjectEntity": "Lualaba River", "ObjectEntities": ["Democratic Republic of the Congo"], "ObjectEntitiesID": ["Q974"], "Relation": "RiverBasinsCountry", "Edits": 118}
+{"SubjectEntityID": "Q504388", "SubjectEntity": "Enguri River", "ObjectEntities": ["Georgia"], "ObjectEntitiesID": ["Q230"], "Relation": "RiverBasinsCountry", "Edits": 116}
+{"SubjectEntityID": "Q815650", "SubjectEntity": "Belize River", "ObjectEntities": ["Belize", "Guatemala"], "ObjectEntitiesID": ["Q242", "Q774"], "Relation": "RiverBasinsCountry", "Edits": 108}
+{"SubjectEntityID": "Q659526", "SubjectEntity": "Orne", "ObjectEntities": ["France"], "ObjectEntitiesID": ["Q142"], "Relation": "RiverBasinsCountry", "Edits": 108}
+{"SubjectEntityID": "Q815462", "SubjectEntity": "P\u00e4rnu River", "ObjectEntities": ["Estonia", "Latvia"], "ObjectEntitiesID": ["Q191", "Q211"], "Relation": "RiverBasinsCountry", "Edits": 105}
+{"SubjectEntityID": "Q6434", "SubjectEntity": "Fulda", "ObjectEntities": ["Germany"], "ObjectEntitiesID": ["Q183"], "Relation": "RiverBasinsCountry", "Edits": 104}
+{"SubjectEntityID": "Q1818615", "SubjectEntity": "Scarpe", "ObjectEntities": ["France"], "ObjectEntitiesID": ["Q142"], "Relation": "RiverBasinsCountry", "Edits": 86}
+{"SubjectEntityID": "Q756302", "SubjectEntity": "Poprad", "ObjectEntities": ["Slovakia"], "ObjectEntitiesID": ["Q214"], "Relation": "RiverBasinsCountry", "Edits": 80}
+{"SubjectEntityID": "Q863102", "SubjectEntity": "Kostroma", "ObjectEntities": ["Russia"], "ObjectEntitiesID": ["Q159"], "Relation": "RiverBasinsCountry", "Edits": 78}
+{"SubjectEntityID": "Q738986", "SubjectEntity": "Seym", "ObjectEntities": ["Ukraine", "Russia"], "ObjectEntitiesID": ["Q212", "Q159"], "Relation": "RiverBasinsCountry", "Edits": 75}
+{"SubjectEntityID": "Q598256", "SubjectEntity": "Ilek", "ObjectEntities": ["Russia", "Kazakhstan"], "ObjectEntitiesID": ["Q159", "Q232"], "Relation": "RiverBasinsCountry", "Edits": 74}
+{"SubjectEntityID": "Q1513565", "SubjectEntity": "Molochna River", "ObjectEntities": ["Ukraine"], "ObjectEntitiesID": ["Q212"], "Relation": "RiverBasinsCountry", "Edits": 70}
+{"SubjectEntityID": "Q724465", "SubjectEntity": "Ket", "ObjectEntities": ["Russia"], "ObjectEntitiesID": ["Q159"], "Relation": "RiverBasinsCountry", "Edits": 68}
+{"SubjectEntityID": "Q1142038", "SubjectEntity": "M\u016b\u0161a", "ObjectEntities": ["Lithuania", "Latvia"], "ObjectEntitiesID": ["Q37", "Q211"], "Relation": "RiverBasinsCountry", "Edits": 67}
+{"SubjectEntityID": "Q472816", "SubjectEntity": "Juruena River", "ObjectEntities": ["Brazil"], "ObjectEntitiesID": ["Q155"], "Relation": "RiverBasinsCountry", "Edits": 64}
+{"SubjectEntityID": "Q163384", "SubjectEntity": "Iori River", "ObjectEntities": ["Azerbaijan", "Georgia"], "ObjectEntitiesID": ["Q227", "Q230"], "Relation": "RiverBasinsCountry", "Edits": 64}
+{"SubjectEntityID": "Q1352569", "SubjectEntity": "Nemun\u0117lis", "ObjectEntities": ["Lithuania", "Latvia"], "ObjectEntitiesID": ["Q37", "Q211"], "Relation": "RiverBasinsCountry", "Edits": 58}
+{"SubjectEntityID": "Q1050400", "SubjectEntity": "Ubort", "ObjectEntities": ["Ukraine"], "ObjectEntitiesID": ["Q212"], "Relation": "RiverBasinsCountry", "Edits": 57}
+{"SubjectEntityID": "Q203369", "SubjectEntity": "Zilupe", "ObjectEntities": ["Russia", "Belarus", "Latvia"], "ObjectEntitiesID": ["Q159", "Q184", "Q211"], "Relation": "RiverBasinsCountry", "Edits": 55}
+{"SubjectEntityID": "Q1669018", "SubjectEntity": "Ludza", "ObjectEntities": ["Russia", "Latvia"], "ObjectEntitiesID": ["Q159", "Q211"], "Relation": "RiverBasinsCountry", "Edits": 49}
+{"SubjectEntityID": "Q293570", "SubjectEntity": "\u00d5hne River", "ObjectEntities": ["Estonia", "Latvia"], "ObjectEntitiesID": ["Q191", "Q211"], "Relation": "RiverBasinsCountry", "Edits": 48}
+{"SubjectEntityID": "Q1728989", "SubjectEntity": "Karasu", "ObjectEntities": ["Turkey"], "ObjectEntitiesID": ["Q43"], "Relation": "RiverBasinsCountry", "Edits": 46}
+{"SubjectEntityID": "Q2416434", "SubjectEntity": "Sudost", "ObjectEntities": ["Ukraine", "Russia"], "ObjectEntitiesID": ["Q212", "Q159"], "Relation": "RiverBasinsCountry", "Edits": 46}
+{"SubjectEntityID": "Q2040044", "SubjectEntity": "Tskhenistsqali", "ObjectEntities": ["Georgia"], "ObjectEntitiesID": ["Q230"], "Relation": "RiverBasinsCountry", "Edits": 42}
+{"SubjectEntityID": "Q612422", "SubjectEntity": "Anuy", "ObjectEntities": ["Russia"], "ObjectEntitiesID": ["Q159"], "Relation": "RiverBasinsCountry", "Edits": 42}
+{"SubjectEntityID": "Q1598984", "SubjectEntity": "Jihlava", "ObjectEntities": ["Czech Republic"], "ObjectEntitiesID": ["Q213"], "Relation": "RiverBasinsCountry", "Edits": 40}
+{"SubjectEntityID": "Q4249818", "SubjectEntity": "Kukhva", "ObjectEntities": ["Russia", "Latvia"], "ObjectEntitiesID": ["Q159", "Q211"], "Relation": "RiverBasinsCountry", "Edits": 39}
+{"SubjectEntityID": "Q2657446", "SubjectEntity": "Lonja", "ObjectEntities": ["Croatia"], "ObjectEntitiesID": ["Q224"], "Relation": "RiverBasinsCountry", "Edits": 36}
+{"SubjectEntityID": "Q1074840", "SubjectEntity": "Chishui River", "ObjectEntities": ["People's Republic of China"], "ObjectEntitiesID": ["Q148"], "Relation": "RiverBasinsCountry", "Edits": 26}
+{"SubjectEntityID": "Q3458794", "SubjectEntity": "Sinaloa River", "ObjectEntities": ["Mexico"], "ObjectEntitiesID": ["Q96"], "Relation": "RiverBasinsCountry", "Edits": 25}
+{"SubjectEntityID": "Q1645200", "SubjectEntity": "Simojoki", "ObjectEntities": ["Finland"], "ObjectEntitiesID": ["Q33"], "Relation": "RiverBasinsCountry", "Edits": 21}
+{"SubjectEntityID": "Q3491100", "SubjectEntity": "Bolgarchay River", "ObjectEntities": ["Azerbaijan", "Iran"], "ObjectEntitiesID": ["Q227", "Q794"], "Relation": "RiverBasinsCountry", "Edits": 14}
+{"SubjectEntityID": "Q3814894", "SubjectEntity": "Xa\u00e7\u0131n\u00e7ay", "ObjectEntities": ["Azerbaijan"], "ObjectEntitiesID": ["Q227"], "Relation": "RiverBasinsCountry", "Edits": 5}
+{"SubjectEntityID": "Q2993977", "SubjectEntity": "Pronia", "ObjectEntities": ["Belarus"], "ObjectEntitiesID": ["Q184"], "Relation": "RiverBasinsCountry", "Edits": 5}

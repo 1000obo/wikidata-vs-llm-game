@@ -1,0 +1,3 @@
+{"SubjectEntityID": "Q34", "SubjectEntity": "Sweden", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["Swedish"], "ObjectEntitiesID": ["Q9027"], "Explanation": "", "Accepted": false}
+{"SubjectEntityID": "Q1036", "SubjectEntity": "Uganda", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["English", "Swahili"], "ObjectEntitiesID": ["Q1860", "Q7838"], "Explanation": "", "Accepted": false}
+{"SubjectEntityID": "Q826", "SubjectEntity": "Maldives", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["Dhivehi"], "ObjectEntitiesID": ["Q32656"], "Explanation": "", "Accepted": false}

@@ -1,0 +1,10 @@
+{"SubjectEntityID": "Q2673", "SubjectEntity": "Chuck Norris", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasPlaceOfDeath", "Score": 1.0}
+{"SubjectEntityID": "Q95043", "SubjectEntity": "James Caan", "ObjectEntities": ["Los Angeles"], "ObjectEntitiesID": ["Q65"], "Relation": "PersonHasPlaceOfDeath", "Score": 0.6281220437121094}
+{"SubjectEntityID": "Q9424", "SubjectEntity": "Jack Nicklaus", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasPlaceOfDeath", "Score": 0.4122210057629174}
+{"SubjectEntityID": "Q105875", "SubjectEntity": "Herbie Hancock", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasPlaceOfDeath", "Score": 0.2749305212756147}
+{"SubjectEntityID": "Q43969", "SubjectEntity": "Muhammad Yunus", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasPlaceOfDeath", "Score": 0.26627092332908214}
+{"SubjectEntityID": "Q173246", "SubjectEntity": "Max Mosley", "ObjectEntities": ["London"], "ObjectEntitiesID": ["Q84"], "Relation": "PersonHasPlaceOfDeath", "Score": 0.260859062589399}
+{"SubjectEntityID": "Q312674", "SubjectEntity": "Giorgio Moroder", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasPlaceOfDeath", "Score": 0.23687365120032905}
+{"SubjectEntityID": "Q919527", "SubjectEntity": "Tom Brokaw", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasPlaceOfDeath", "Score": 0.22988371192023493}
+{"SubjectEntityID": "Q119069", "SubjectEntity": "Vicente Fern\u00e1ndez", "ObjectEntities": ["Guadalajara"], "ObjectEntitiesID": ["Q9022"], "Relation": "PersonHasPlaceOfDeath", "Score": 0.22918616724548801}
+{"SubjectEntityID": "Q95125", "SubjectEntity": "James L. Brooks", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasPlaceOfDeath", "Score": 0.1389343376618571}

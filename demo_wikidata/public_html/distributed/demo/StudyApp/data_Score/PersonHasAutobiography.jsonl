@@ -1,0 +1,10 @@
+{"SubjectEntityID": "Q9960", "SubjectEntity": "Ronald Reagan", "ObjectEntities": ["An American Life"], "ObjectEntitiesID": ["Q4749766"], "Relation": "PersonHasAutobiography", "Score": 1.0}
+{"SubjectEntityID": "Q8023", "SubjectEntity": "Nelson Mandela", "ObjectEntities": ["Long Walk to Freedom"], "ObjectEntitiesID": ["Q1199342"], "Relation": "PersonHasAutobiography", "Score": 0.6417164086819915}
+{"SubjectEntityID": "Q23505", "SubjectEntity": "George H. W. Bush", "ObjectEntities": ["All the Best"], "ObjectEntitiesID": ["Q17511147"], "Relation": "PersonHasAutobiography", "Score": 0.6146489377746434}
+{"SubjectEntityID": "Q9545", "SubjectEntity": "Tony Blair", "ObjectEntities": ["A Journey"], "ObjectEntitiesID": ["Q2478802"], "Relation": "PersonHasAutobiography", "Score": 0.5310608968308342}
+{"SubjectEntityID": "Q162629", "SubjectEntity": "Simon Cowell", "ObjectEntities": ["I Don't Mean to be Rude But..."], "ObjectEntitiesID": ["Q5976940"], "Relation": "PersonHasAutobiography", "Score": 0.49785619684790267}
+{"SubjectEntityID": "Q633", "SubjectEntity": "Neil Young", "ObjectEntities": ["Waging Heavy Peace"], "ObjectEntitiesID": ["Q5793640"], "Relation": "PersonHasAutobiography", "Score": 0.4696602606065577}
+{"SubjectEntityID": "Q34166", "SubjectEntity": "Slash", "ObjectEntities": ["Slash"], "ObjectEntitiesID": ["Q7538775"], "Relation": "PersonHasAutobiography", "Score": 0.46957995802754204}
+{"SubjectEntityID": "Q1405", "SubjectEntity": "Augustus", "ObjectEntities": ["Res Gestae Divi Augusti"], "ObjectEntitiesID": ["Q734095"], "Relation": "PersonHasAutobiography", "Score": 0.45332224766160295}
+{"SubjectEntityID": "Q222071", "SubjectEntity": "Courtney Love", "ObjectEntities": ["Girl With the Most Cake"], "ObjectEntitiesID": ["Q16156400"], "Relation": "PersonHasAutobiography", "Score": 0.3763850810473663}
+{"SubjectEntityID": "Q126513", "SubjectEntity": "Steve Irwin", "ObjectEntities": ["My Steve"], "ObjectEntitiesID": ["Q16954622"], "Relation": "PersonHasAutobiography", "Score": 0.3555414896539204}

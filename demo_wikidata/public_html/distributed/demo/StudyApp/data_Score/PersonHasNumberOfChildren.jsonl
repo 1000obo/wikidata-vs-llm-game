@@ -1,0 +1,10 @@
+{"SubjectEntityID": "Q213854", "SubjectEntity": "Virat Kohli", "ObjectEntities": ["1"], "ObjectEntitiesID": ["1"], "Relation": "PersonHasNumberOfChildren", "Score": 0.8601723746881379}
+{"SubjectEntityID": "Q83325", "SubjectEntity": "Pamela Anderson", "ObjectEntities": ["2"], "ObjectEntitiesID": ["2"], "Relation": "PersonHasNumberOfChildren", "Score": 0.7224325260600767}
+{"SubjectEntityID": "Q4547", "SubjectEntity": "Daniel Craig", "ObjectEntities": ["2"], "ObjectEntitiesID": ["2"], "Relation": "PersonHasNumberOfChildren", "Score": 0.639911820042387}
+{"SubjectEntityID": "Q42455", "SubjectEntity": "Bj\u00f6rk", "ObjectEntities": ["2"], "ObjectEntitiesID": ["2"], "Relation": "PersonHasNumberOfChildren", "Score": 0.5115300677418693}
+{"SubjectEntityID": "Q11816", "SubjectEntity": "John Quincy Adams", "ObjectEntities": ["4"], "ObjectEntitiesID": ["4"], "Relation": "PersonHasNumberOfChildren", "Score": 0.5054553630966916}
+{"SubjectEntityID": "Q193517", "SubjectEntity": "Emily Blunt", "ObjectEntities": ["2"], "ObjectEntitiesID": ["2"], "Relation": "PersonHasNumberOfChildren", "Score": 0.4536488016338396}
+{"SubjectEntityID": "Q194280", "SubjectEntity": "Hugh Hefner", "ObjectEntities": ["4"], "ObjectEntitiesID": ["4"], "Relation": "PersonHasNumberOfChildren", "Score": 0.4384590262705762}
+{"SubjectEntityID": "Q130742", "SubjectEntity": "Alanis Morissette", "ObjectEntities": ["3"], "ObjectEntitiesID": ["3"], "Relation": "PersonHasNumberOfChildren", "Score": 0.4319499923468466}
+{"SubjectEntityID": "Q103343", "SubjectEntity": "Jennifer Connelly", "ObjectEntities": ["3"], "ObjectEntitiesID": ["3"], "Relation": "PersonHasNumberOfChildren", "Score": 0.3757969455634544}
+{"SubjectEntityID": "Q41548", "SubjectEntity": "Antonio Banderas", "ObjectEntities": ["1"], "ObjectEntitiesID": ["1"], "Relation": "PersonHasNumberOfChildren", "Score": 0.3677248795583381}

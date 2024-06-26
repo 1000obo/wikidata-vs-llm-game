@@ -1,0 +1,10 @@
+{"SubjectEntityID": "Q2643", "SubjectEntity": "George Harrison", "ObjectEntities": ["lung cancer", "brain tumor"], "ObjectEntitiesID": ["Q47912", "Q233309"], "Relation": "PersonCauseOfDeath", "Score": 0.8960632025839315}
+{"SubjectEntityID": "Q213864", "SubjectEntity": "Paul Walker", "ObjectEntities": ["traffic collision"], "ObjectEntitiesID": ["Q9687"], "Relation": "PersonCauseOfDeath", "Score": 0.7401613762655096}
+{"SubjectEntityID": "Q272012", "SubjectEntity": "Eddie Van Halen", "ObjectEntities": ["laryngeal cancer", "cerebral hemorrhage"], "ObjectEntitiesID": ["Q852423", "Q1368943"], "Relation": "PersonCauseOfDeath", "Score": 0.4507213800347736}
+{"SubjectEntityID": "Q206833", "SubjectEntity": "Denise Richards", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Score": 0.32320982351124616}
+{"SubjectEntityID": "Q342549", "SubjectEntity": "Nathan Fillion", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Score": 0.31038448508709093}
+{"SubjectEntityID": "Q351156", "SubjectEntity": "Adam West", "ObjectEntities": ["leukemia"], "ObjectEntitiesID": ["Q29496"], "Relation": "PersonCauseOfDeath", "Score": 0.24852213627894432}
+{"SubjectEntityID": "Q46248", "SubjectEntity": "Terry Pratchett", "ObjectEntities": ["Posterior cortical atrophy", "Alzheimer's disease"], "ObjectEntitiesID": ["Q2869816", "Q11081"], "Relation": "PersonCauseOfDeath", "Score": 0.22925160998677954}
+{"SubjectEntityID": "Q44683", "SubjectEntity": "Chavo Guerrero, Jr.", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Score": 0.21362289017504013}
+{"SubjectEntityID": "Q449048", "SubjectEntity": "Derren Brown", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Score": 0.2013338013316831}
+{"SubjectEntityID": "Q345494", "SubjectEntity": "Ryuichi Sakamoto", "ObjectEntities": ["colorectal cancer"], "ObjectEntitiesID": ["Q188874"], "Relation": "PersonCauseOfDeath", "Score": 0.18265758854200112}

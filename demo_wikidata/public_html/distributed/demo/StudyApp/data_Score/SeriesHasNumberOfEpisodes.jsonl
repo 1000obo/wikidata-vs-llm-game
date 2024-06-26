@@ -1,0 +1,10 @@
+{"SubjectEntityID": "Q85808226", "SubjectEntity": "The Queen's Gambit", "ObjectEntities": ["7"], "ObjectEntitiesID": ["7"], "Relation": "SeriesHasNumberOfEpisodes", "Score": 0.9833333333333334}
+{"SubjectEntityID": "Q6376050", "SubjectEntity": "Kath & Kim", "ObjectEntities": ["32"], "ObjectEntitiesID": ["32"], "Relation": "SeriesHasNumberOfEpisodes", "Score": 0.5597449211205334}
+{"SubjectEntityID": "Q60771449", "SubjectEntity": "Perry Mason", "ObjectEntities": ["15"], "ObjectEntitiesID": ["15"], "Relation": "SeriesHasNumberOfEpisodes", "Score": 0.4613679181748339}
+{"SubjectEntityID": "Q28443753", "SubjectEntity": "Strike", "ObjectEntities": ["15"], "ObjectEntitiesID": ["15"], "Relation": "SeriesHasNumberOfEpisodes", "Score": 0.4417452844704203}
+{"SubjectEntityID": "Q54999845", "SubjectEntity": "A Discovery of Witches", "ObjectEntities": ["25"], "ObjectEntitiesID": ["25"], "Relation": "SeriesHasNumberOfEpisodes", "Score": 0.42244267521930196}
+{"SubjectEntityID": "Q88532913", "SubjectEntity": "The Beatles: Get Back", "ObjectEntities": ["3"], "ObjectEntitiesID": ["3"], "Relation": "SeriesHasNumberOfEpisodes", "Score": 0.3461829604258524}
+{"SubjectEntityID": "Q7717444", "SubjectEntity": "The Bible", "ObjectEntities": ["10"], "ObjectEntitiesID": ["10"], "Relation": "SeriesHasNumberOfEpisodes", "Score": 0.3198140627604801}
+{"SubjectEntityID": "Q27890248", "SubjectEntity": "Gilmore Girls: A Year in the Life", "ObjectEntities": ["4"], "ObjectEntitiesID": ["4"], "Relation": "SeriesHasNumberOfEpisodes", "Score": 0.2809003732952444}
+{"SubjectEntityID": "Q154194", "SubjectEntity": "Generation Kill", "ObjectEntities": ["7"], "ObjectEntitiesID": ["7"], "Relation": "SeriesHasNumberOfEpisodes", "Score": 0.2763845490400745}
+{"SubjectEntityID": "Q2403605", "SubjectEntity": "Garth Marenghi's Darkplace", "ObjectEntities": ["6"], "ObjectEntitiesID": ["6"], "Relation": "SeriesHasNumberOfEpisodes", "Score": 0.25770932620171155}

@@ -1,0 +1,98 @@
+{"SubjectEntityID": "Q334", "SubjectEntity": "Singapore", "ObjectEntities": ["Singapore River"], "ObjectEntitiesID": ["Q1454776"], "Relation": "CityLocatedAtRiver", "Edits": 16441}
+{"SubjectEntityID": "Q220", "SubjectEntity": "Rome", "ObjectEntities": ["Aniene", "Tiber"], "ObjectEntitiesID": ["Q546600", "Q13712"], "Relation": "CityLocatedAtRiver", "Edits": 11969}
+{"SubjectEntityID": "Q18125", "SubjectEntity": "Manchester", "ObjectEntities": ["River Irwell"], "ObjectEntitiesID": ["Q47901"], "Relation": "CityLocatedAtRiver", "Edits": 11327}
+{"SubjectEntityID": "Q1930", "SubjectEntity": "Ottawa", "ObjectEntities": ["Ottawa River", "Rideau River"], "ObjectEntitiesID": ["Q60974", "Q280507"], "Relation": "CityLocatedAtRiver", "Edits": 8646}
+{"SubjectEntityID": "Q47916", "SubjectEntity": "Lucknow", "ObjectEntities": ["Gomti River"], "ObjectEntitiesID": ["Q477676"], "Relation": "CityLocatedAtRiver", "Edits": 8042}
+{"SubjectEntityID": "Q1486", "SubjectEntity": "Buenos Aires", "ObjectEntities": ["R\u00edo de la Plata"], "ObjectEntitiesID": ["Q35827"], "Relation": "CityLocatedAtRiver", "Edits": 7974}
+{"SubjectEntityID": "Q85", "SubjectEntity": "Cairo", "ObjectEntities": ["Nile"], "ObjectEntitiesID": ["Q3392"], "Relation": "CityLocatedAtRiver", "Edits": 7689}
+{"SubjectEntityID": "Q1070", "SubjectEntity": "Ahmedabad", "ObjectEntities": ["Sabarmati"], "ObjectEntitiesID": ["Q630397"], "Relation": "CityLocatedAtRiver", "Edits": 7254}
+{"SubjectEntityID": "Q187805", "SubjectEntity": "Spokane", "ObjectEntities": ["Spokane River"], "ObjectEntitiesID": ["Q1275618"], "Relation": "CityLocatedAtRiver", "Edits": 6907}
+{"SubjectEntityID": "Q472", "SubjectEntity": "Sofia", "ObjectEntities": ["Vladaya River", "Boyanska reka", "Perlovska", "Iskar", "Kakach River"], "ObjectEntitiesID": ["Q3657979", "Q4952232", "Q7169173", "Q217805", "Q83421498"], "Relation": "CityLocatedAtRiver", "Edits": 6195}
+{"SubjectEntityID": "Q162442", "SubjectEntity": "Prayagraj", "ObjectEntities": ["Ganges"], "ObjectEntitiesID": ["Q5089"], "Relation": "CityLocatedAtRiver", "Edits": 5977}
+{"SubjectEntityID": "Q2123", "SubjectEntity": "Regina", "ObjectEntities": ["Wascana Creek"], "ObjectEntitiesID": ["Q7971361"], "Relation": "CityLocatedAtRiver", "Edits": 5423}
+{"SubjectEntityID": "Q2145", "SubjectEntity": "Quebec City", "ObjectEntities": ["St. Lawrence River"], "ObjectEntitiesID": ["Q134750"], "Relation": "CityLocatedAtRiver", "Edits": 4850}
+{"SubjectEntityID": "Q456", "SubjectEntity": "Lyon", "ObjectEntities": ["Sa\u00f4ne"], "ObjectEntitiesID": ["Q187834"], "Relation": "CityLocatedAtRiver", "Edits": 4152}
+{"SubjectEntityID": "Q1022", "SubjectEntity": "Stuttgart", "ObjectEntities": ["Neckar", "Nesenbach"], "ObjectEntitiesID": ["Q1673", "Q319609"], "Relation": "CityLocatedAtRiver", "Edits": 3470}
+{"SubjectEntityID": "Q1646181", "SubjectEntity": "Worcester", "ObjectEntities": ["River Severn"], "ObjectEntitiesID": ["Q19682"], "Relation": "CityLocatedAtRiver", "Edits": 3322}
+{"SubjectEntityID": "Q268", "SubjectEntity": "Pozna\u0144", "ObjectEntities": ["Warta"], "ObjectEntitiesID": ["Q201823"], "Relation": "CityLocatedAtRiver", "Edits": 3083}
+{"SubjectEntityID": "Q21197", "SubjectEntity": "Chi\u0219in\u0103u", "ObjectEntities": ["B\u00eec River"], "ObjectEntitiesID": ["Q843343"], "Relation": "CityLocatedAtRiver", "Edits": 2945}
+{"SubjectEntityID": "Q48320", "SubjectEntity": "K\u014dbe", "ObjectEntities": ["Sumiyoshi River"], "ObjectEntitiesID": ["Q11381826"], "Relation": "CityLocatedAtRiver", "Edits": 2808}
+{"SubjectEntityID": "Q128244", "SubjectEntity": "Waco", "ObjectEntities": ["Brazos River"], "ObjectEntitiesID": ["Q903306"], "Relation": "CityLocatedAtRiver", "Edits": 2587}
+{"SubjectEntityID": "Q78", "SubjectEntity": "Basel", "ObjectEntities": ["Rhine", "Birs"], "ObjectEntitiesID": ["Q584", "Q14340"], "Relation": "CityLocatedAtRiver", "Edits": 2569}
+{"SubjectEntityID": "Q29364", "SubjectEntity": "Montgomery", "ObjectEntities": ["Alabama River"], "ObjectEntitiesID": ["Q558643"], "Relation": "CityLocatedAtRiver", "Edits": 2205}
+{"SubjectEntityID": "Q34713", "SubjectEntity": "Salzburg", "ObjectEntities": ["Salzach", "Alterbach", "Saalach"], "ObjectEntitiesID": ["Q152661", "Q438289", "Q700453"], "Relation": "CityLocatedAtRiver", "Edits": 2164}
+{"SubjectEntityID": "Q3238", "SubjectEntity": "Tegucigalpa", "ObjectEntities": ["Choluteca River"], "ObjectEntitiesID": ["Q2193528"], "Relation": "CityLocatedAtRiver", "Edits": 2036}
+{"SubjectEntityID": "Q887", "SubjectEntity": "Yekaterinburg", "ObjectEntities": ["Iset"], "ObjectEntitiesID": ["Q874369"], "Relation": "CityLocatedAtRiver", "Edits": 2003}
+{"SubjectEntityID": "Q761", "SubjectEntity": "Bia\u0142ystok", "ObjectEntities": ["Bia\u0142a"], "ObjectEntitiesID": ["Q3491828"], "Relation": "CityLocatedAtRiver", "Edits": 1987}
+{"SubjectEntityID": "Q37801", "SubjectEntity": "B\u0103l\u021bi", "ObjectEntities": ["R\u0103ut", "R\u0103u\u021bel River"], "ObjectEntitiesID": ["Q1807338", "Q19708852"], "Relation": "CityLocatedAtRiver", "Edits": 1714}
+{"SubjectEntityID": "Q868631", "SubjectEntity": "Sukkur", "ObjectEntities": ["Indus River"], "ObjectEntitiesID": ["Q7348"], "Relation": "CityLocatedAtRiver", "Edits": 1625}
+{"SubjectEntityID": "Q37333", "SubjectEntity": "Lublin", "ObjectEntities": ["Bystrzyca"], "ObjectEntitiesID": ["Q9182745"], "Relation": "CityLocatedAtRiver", "Edits": 1602}
+{"SubjectEntityID": "Q37951", "SubjectEntity": "Sapporo", "ObjectEntities": ["Ishikari River", "Toyohira River", "S\u014dsei River"], "ObjectEntitiesID": ["Q1061515", "Q1132961", "Q11398074"], "Relation": "CityLocatedAtRiver", "Edits": 1542}
+{"SubjectEntityID": "Q749", "SubjectEntity": "Groningen", "ObjectEntities": ["Drentsche Aa"], "ObjectEntitiesID": ["Q2238502"], "Relation": "CityLocatedAtRiver", "Edits": 1534}
+{"SubjectEntityID": "Q6441", "SubjectEntity": "Montpellier", "ObjectEntities": ["Verdanson", "Lez", "Mosson"], "ObjectEntitiesID": ["Q3555779", "Q1333963", "Q787452"], "Relation": "CityLocatedAtRiver", "Edits": 1504}
+{"SubjectEntityID": "Q1735", "SubjectEntity": "Innsbruck", "ObjectEntities": ["Inn"], "ObjectEntitiesID": ["Q14369"], "Relation": "CityLocatedAtRiver", "Edits": 1344}
+{"SubjectEntityID": "Q216847", "SubjectEntity": "C\u00facuta", "ObjectEntities": ["Pamplonita River", "Zulia River", "T\u00e1chira River"], "ObjectEntitiesID": ["Q1318493", "Q1739871", "Q3458820"], "Relation": "CityLocatedAtRiver", "Edits": 1331}
+{"SubjectEntityID": "Q118958", "SubjectEntity": "Leuven", "ObjectEntities": ["Dyle / Dijle"], "ObjectEntitiesID": ["Q934226"], "Relation": "CityLocatedAtRiver", "Edits": 1247}
+{"SubjectEntityID": "Q3138", "SubjectEntity": "Trier", "ObjectEntities": ["Moselle"], "ObjectEntitiesID": ["Q1667"], "Relation": "CityLocatedAtRiver", "Edits": 1226}
+{"SubjectEntityID": "Q956371", "SubjectEntity": "Mirzapur", "ObjectEntities": ["Ganges"], "ObjectEntitiesID": ["Q5089"], "Relation": "CityLocatedAtRiver", "Edits": 1224}
+{"SubjectEntityID": "Q2337", "SubjectEntity": "Smolensk", "ObjectEntities": ["Dnieper"], "ObjectEntitiesID": ["Q40855"], "Relation": "CityLocatedAtRiver", "Edits": 1200}
+{"SubjectEntityID": "Q911", "SubjectEntity": "Ufa", "ObjectEntities": ["Belaya", "Ufa"], "ObjectEntitiesID": ["Q192157", "Q210870"], "Relation": "CityLocatedAtRiver", "Edits": 1182}
+{"SubjectEntityID": "Q12829733", "SubjectEntity": "Bel\u00e9m", "ObjectEntities": ["Guam\u00e1 River"], "ObjectEntitiesID": ["Q2154369"], "Relation": "CityLocatedAtRiver", "Edits": 1165}
+{"SubjectEntityID": "Q157144", "SubjectEntity": "Vinnytsia", "ObjectEntities": ["Southern Bug"], "ObjectEntitiesID": ["Q188940"], "Relation": "CityLocatedAtRiver", "Edits": 1117}
+{"SubjectEntityID": "Q2235", "SubjectEntity": "Veliky Novgorod", "ObjectEntities": ["Volkhov"], "ObjectEntitiesID": ["Q15243"], "Relation": "CityLocatedAtRiver", "Edits": 1100}
+{"SubjectEntityID": "Q690", "SubjectEntity": "Delft", "ObjectEntities": ["Schie"], "ObjectEntitiesID": ["Q1532522"], "Relation": "CityLocatedAtRiver", "Edits": 1096}
+{"SubjectEntityID": "Q598", "SubjectEntity": "Rzesz\u00f3w", "ObjectEntities": ["Wis\u0142ok"], "ObjectEntitiesID": ["Q1476324"], "Relation": "CityLocatedAtRiver", "Edits": 1071}
+{"SubjectEntityID": "Q115256", "SubjectEntity": "Taoyuan", "ObjectEntities": ["Dahan River", "Datiekeng Xi"], "ObjectEntitiesID": ["Q199374", "Q17025296"], "Relation": "CityLocatedAtRiver", "Edits": 1044}
+{"SubjectEntityID": "Q183124", "SubjectEntity": "Cochabamba", "ObjectEntities": ["Rocha River"], "ObjectEntitiesID": ["Q1457291"], "Relation": "CityLocatedAtRiver", "Edits": 1044}
+{"SubjectEntityID": "Q5627", "SubjectEntity": "Ulyanovsk", "ObjectEntities": ["Volga", "Sviyaga"], "ObjectEntitiesID": ["Q626", "Q1132165"], "Relation": "CityLocatedAtRiver", "Edits": 1041}
+{"SubjectEntityID": "Q44012", "SubjectEntity": "Trois-Rivi\u00e8res", "ObjectEntities": ["St. Lawrence River", "Saint-Maurice river"], "ObjectEntitiesID": ["Q134750", "Q203862"], "Relation": "CityLocatedAtRiver", "Edits": 1018}
+{"SubjectEntityID": "Q183303", "SubjectEntity": "Jalalabad", "ObjectEntities": ["Kabul River"], "ObjectEntitiesID": ["Q8515"], "Relation": "CityLocatedAtRiver", "Edits": 921}
+{"SubjectEntityID": "Q92212", "SubjectEntity": "Opole", "ObjectEntities": ["Oder"], "ObjectEntitiesID": ["Q552"], "Relation": "CityLocatedAtRiver", "Edits": 914}
+{"SubjectEntityID": "Q3001", "SubjectEntity": "Paramaribo", "ObjectEntities": ["Suriname River"], "ObjectEntitiesID": ["Q635545"], "Relation": "CityLocatedAtRiver", "Edits": 816}
+{"SubjectEntityID": "Q202162", "SubjectEntity": "Aba", "ObjectEntities": ["Aba River"], "ObjectEntitiesID": ["Q3744127"], "Relation": "CityLocatedAtRiver", "Edits": 787}
+{"SubjectEntityID": "Q45798", "SubjectEntity": "Gifu", "ObjectEntities": ["Ijira River", "Nagara River", "Tsubo River", "Mugi River"], "ObjectEntitiesID": ["Q332939", "Q1194094", "Q7849905", "Q11545799"], "Relation": "CityLocatedAtRiver", "Edits": 781}
+{"SubjectEntityID": "Q3004", "SubjectEntity": "Ingolstadt", "ObjectEntities": ["Danube", "Sandrach", "Schutter", "Mailinger Bach"], "ObjectEntitiesID": ["Q1653", "Q833033", "Q180300", "Q1642801"], "Relation": "CityLocatedAtRiver", "Edits": 737}
+{"SubjectEntityID": "Q3674", "SubjectEntity": "Niamey", "ObjectEntities": ["Niger River"], "ObjectEntitiesID": ["Q3542"], "Relation": "CityLocatedAtRiver", "Edits": 736}
+{"SubjectEntityID": "Q59218", "SubjectEntity": "Dongguan", "ObjectEntities": ["Pearl River"], "ObjectEntitiesID": ["Q201463"], "Relation": "CityLocatedAtRiver", "Edits": 724}
+{"SubjectEntityID": "Q102217", "SubjectEntity": "Vitebsk", "ObjectEntities": ["Daugava"], "ObjectEntitiesID": ["Q8197"], "Relation": "CityLocatedAtRiver", "Edits": 715}
+{"SubjectEntityID": "Q191130", "SubjectEntity": "Kanazawa", "ObjectEntities": ["Asano River", "Saigawa River"], "ObjectEntitiesID": ["Q11557352", "Q11571105"], "Relation": "CityLocatedAtRiver", "Edits": 700}
+{"SubjectEntityID": "Q104725", "SubjectEntity": "P\u0142ock", "ObjectEntities": ["Vistula"], "ObjectEntitiesID": ["Q548"], "Relation": "CityLocatedAtRiver", "Edits": 688}
+{"SubjectEntityID": "Q477232", "SubjectEntity": "Aktobe", "ObjectEntities": ["Ilek", "Sazdy"], "ObjectEntitiesID": ["Q598256", "Q20687327"], "Relation": "CityLocatedAtRiver", "Edits": 602}
+{"SubjectEntityID": "Q1709", "SubjectEntity": "Schwerin", "ObjectEntities": ["Aubach"], "ObjectEntitiesID": ["Q758415"], "Relation": "CityLocatedAtRiver", "Edits": 535}
+{"SubjectEntityID": "Q3214", "SubjectEntity": "Cottbus", "ObjectEntities": ["Spree"], "ObjectEntitiesID": ["Q1684"], "Relation": "CityLocatedAtRiver", "Edits": 534}
+{"SubjectEntityID": "Q192235", "SubjectEntity": "Ciudad del Este", "ObjectEntities": ["Paran\u00e1 River"], "ObjectEntitiesID": ["Q127892"], "Relation": "CityLocatedAtRiver", "Edits": 504}
+{"SubjectEntityID": "Q273779", "SubjectEntity": "Saint-Louis", "ObjectEntities": ["Senegal River"], "ObjectEntitiesID": ["Q3569"], "Relation": "CityLocatedAtRiver", "Edits": 479}
+{"SubjectEntityID": "Q2801", "SubjectEntity": "Bryansk", "ObjectEntities": ["Desna"], "ObjectEntitiesID": ["Q202796"], "Relation": "CityLocatedAtRiver", "Edits": 478}
+{"SubjectEntityID": "Q359990", "SubjectEntity": "Wuhu", "ObjectEntities": ["Yangtze"], "ObjectEntitiesID": ["Q5413"], "Relation": "CityLocatedAtRiver", "Edits": 448}
+{"SubjectEntityID": "Q793809", "SubjectEntity": "Huaraz", "ObjectEntities": ["Santa River"], "ObjectEntitiesID": ["Q2121241"], "Relation": "CityLocatedAtRiver", "Edits": 442}
+{"SubjectEntityID": "Q179841", "SubjectEntity": "Ciudad Acu\u00f1a", "ObjectEntities": ["Rio Grande"], "ObjectEntitiesID": ["Q160636"], "Relation": "CityLocatedAtRiver", "Edits": 434}
+{"SubjectEntityID": "Q182521", "SubjectEntity": "Rustavi", "ObjectEntities": ["Kura River"], "ObjectEntitiesID": ["Q156557"], "Relation": "CityLocatedAtRiver", "Edits": 410}
+{"SubjectEntityID": "Q2837", "SubjectEntity": "Kaluga", "ObjectEntities": ["Oka"], "ObjectEntitiesID": ["Q172089"], "Relation": "CityLocatedAtRiver", "Edits": 386}
+{"SubjectEntityID": "Q172512", "SubjectEntity": "Porto Velho", "ObjectEntities": ["Madeira River"], "ObjectEntitiesID": ["Q118251"], "Relation": "CityLocatedAtRiver", "Edits": 384}
+{"SubjectEntityID": "Q71266", "SubjectEntity": "Yichang", "ObjectEntities": ["Yangtze"], "ObjectEntitiesID": ["Q5413"], "Relation": "CityLocatedAtRiver", "Edits": 364}
+{"SubjectEntityID": "Q3097", "SubjectEntity": "Remscheid", "ObjectEntities": ["Wupper"], "ObjectEntitiesID": ["Q639374"], "Relation": "CityLocatedAtRiver", "Edits": 328}
+{"SubjectEntityID": "Q201932", "SubjectEntity": "K\u014dfu", "ObjectEntities": ["Nigori River", "Fuefuki River", "Arakawa River"], "ObjectEntitiesID": ["Q11566093", "Q11599751", "Q11618500"], "Relation": "CityLocatedAtRiver", "Edits": 315}
+{"SubjectEntityID": "Q202776", "SubjectEntity": "Ziguinchor", "ObjectEntities": ["Casamance River"], "ObjectEntitiesID": ["Q255093"], "Relation": "CityLocatedAtRiver", "Edits": 314}
+{"SubjectEntityID": "Q191914", "SubjectEntity": "Hachinohe", "ObjectEntities": ["Oirase River"], "ObjectEntitiesID": ["Q1156064"], "Relation": "CityLocatedAtRiver", "Edits": 306}
+{"SubjectEntityID": "Q204249", "SubjectEntity": "Mito", "ObjectEntities": ["Naka River", "Hinuma River"], "ObjectEntitiesID": ["Q1076983", "Q11559650"], "Relation": "CityLocatedAtRiver", "Edits": 303}
+{"SubjectEntityID": "Q95041", "SubjectEntity": "\u00c7all\u0131", "ObjectEntities": ["Kama"], "ObjectEntitiesID": ["Q79082"], "Relation": "CityLocatedAtRiver", "Edits": 301}
+{"SubjectEntityID": "Q3069", "SubjectEntity": "Bottrop", "ObjectEntities": ["Boye"], "ObjectEntitiesID": ["Q895966"], "Relation": "CityLocatedAtRiver", "Edits": 297}
+{"SubjectEntityID": "Q71247", "SubjectEntity": "Jingzhou", "ObjectEntities": ["Yangtze"], "ObjectEntitiesID": ["Q5413"], "Relation": "CityLocatedAtRiver", "Edits": 296}
+{"SubjectEntityID": "Q319740", "SubjectEntity": "Kawagoe", "ObjectEntities": ["Iruma River"], "ObjectEntitiesID": ["Q3915459"], "Relation": "CityLocatedAtRiver", "Edits": 271}
+{"SubjectEntityID": "Q44238", "SubjectEntity": "Posadas", "ObjectEntities": ["Paran\u00e1 River"], "ObjectEntitiesID": ["Q127892"], "Relation": "CityLocatedAtRiver", "Edits": 248}
+{"SubjectEntityID": "Q825166", "SubjectEntity": "Izumo", "ObjectEntities": ["Hii River"], "ObjectEntitiesID": ["Q11500714"], "Relation": "CityLocatedAtRiver", "Edits": 222}
+{"SubjectEntityID": "Q209785", "SubjectEntity": "Ichikawa", "ObjectEntities": ["Edo River", "Ky\u016b-Edo River"], "ObjectEntitiesID": ["Q1194505", "Q11511084"], "Relation": "CityLocatedAtRiver", "Edits": 212}
+{"SubjectEntityID": "Q653510", "SubjectEntity": "Suita", "ObjectEntities": ["Kanzaki River"], "ObjectEntitiesID": ["Q11589632"], "Relation": "CityLocatedAtRiver", "Edits": 207}
+{"SubjectEntityID": "Q335427", "SubjectEntity": "Kisarazu", "ObjectEntities": ["Obitsu River", "Yana River"], "ObjectEntitiesID": ["Q7074982", "Q11584269"], "Relation": "CityLocatedAtRiver", "Edits": 185}
+{"SubjectEntityID": "Q633911", "SubjectEntity": "Chigasaki", "ObjectEntities": ["Sagami River"], "ObjectEntitiesID": ["Q612253"], "Relation": "CityLocatedAtRiver", "Edits": 183}
+{"SubjectEntityID": "Q434285", "SubjectEntity": "Altamira", "ObjectEntities": ["Xingu River"], "ObjectEntitiesID": ["Q49544"], "Relation": "CityLocatedAtRiver", "Edits": 171}
+{"SubjectEntityID": "Q320943", "SubjectEntity": "Matsudo", "ObjectEntities": ["Edo River"], "ObjectEntitiesID": ["Q1194505"], "Relation": "CityLocatedAtRiver", "Edits": 166}
+{"SubjectEntityID": "Q1643864", "SubjectEntity": "Parna\u00edba", "ObjectEntities": ["Parna\u00edba River"], "ObjectEntitiesID": ["Q1419084"], "Relation": "CityLocatedAtRiver", "Edits": 150}
+{"SubjectEntityID": "Q696783", "SubjectEntity": "Yaizu", "ObjectEntities": ["\u014ci River"], "ObjectEntitiesID": ["Q1044017"], "Relation": "CityLocatedAtRiver", "Edits": 137}
+{"SubjectEntityID": "Q664550", "SubjectEntity": "Maradi", "ObjectEntities": ["Goulbi de Maradi River"], "ObjectEntitiesID": ["Q636174"], "Relation": "CityLocatedAtRiver", "Edits": 135}
+{"SubjectEntityID": "Q844852", "SubjectEntity": "Ueda", "ObjectEntities": ["Shinano River"], "ObjectEntitiesID": ["Q734455"], "Relation": "CityLocatedAtRiver", "Edits": 129}
+{"SubjectEntityID": "Q172601", "SubjectEntity": "Neftekamsk", "ObjectEntities": ["Kama"], "ObjectEntitiesID": ["Q79082"], "Relation": "CityLocatedAtRiver", "Edits": 128}
+{"SubjectEntityID": "Q316887", "SubjectEntity": "Saint-Paul", "ObjectEntities": ["Ravine Fleurimont"], "ObjectEntitiesID": ["Q3420318"], "Relation": "CityLocatedAtRiver", "Edits": 126}
+{"SubjectEntityID": "Q1026185", "SubjectEntity": "Calabozo", "ObjectEntities": ["Gu\u00e1rico River"], "ObjectEntitiesID": ["Q1162389"], "Relation": "CityLocatedAtRiver", "Edits": 113}
+{"SubjectEntityID": "Q1805206", "SubjectEntity": "Camet\u00e1", "ObjectEntities": ["Tocantins River"], "ObjectEntitiesID": ["Q156054"], "Relation": "CityLocatedAtRiver", "Edits": 43}
+{"SubjectEntityID": "Q49279759", "SubjectEntity": "Arlington", "ObjectEntities": ["Potomac River"], "ObjectEntitiesID": ["Q179444"], "Relation": "CityLocatedAtRiver", "Edits": 20}

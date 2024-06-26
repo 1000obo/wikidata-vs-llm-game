@@ -1,0 +1,10 @@
+{"SubjectEntityID": "Q35339", "SubjectEntity": "WWE", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "CompanyHasParentOrganisation", "Score": 0.8202946591571179}
+{"SubjectEntityID": "Q3884", "SubjectEntity": "Amazon", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "CompanyHasParentOrganisation", "Score": 0.6942132734292772}
+{"SubjectEntityID": "Q2283", "SubjectEntity": "Microsoft", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "CompanyHasParentOrganisation", "Score": 0.6028265455121942}
+{"SubjectEntityID": "Q380", "SubjectEntity": "Meta Platforms", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "CompanyHasParentOrganisation", "Score": 0.5388123688771321}
+{"SubjectEntityID": "Q38076", "SubjectEntity": "McDonald\u2019s", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "CompanyHasParentOrganisation", "Score": 0.526976794874945}
+{"SubjectEntityID": "Q7414", "SubjectEntity": "The Walt Disney Company", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "CompanyHasParentOrganisation", "Score": 0.5051140343584408}
+{"SubjectEntityID": "Q44294", "SubjectEntity": "Ford Motor Company", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "CompanyHasParentOrganisation", "Score": 0.3233998302912884}
+{"SubjectEntityID": "Q246", "SubjectEntity": "Volkswagen", "ObjectEntities": ["Volkswagen Group"], "ObjectEntitiesID": ["Q156578"], "Relation": "CompanyHasParentOrganisation", "Score": 0.2956845951814439}
+{"SubjectEntityID": "Q248", "SubjectEntity": "Intel", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "CompanyHasParentOrganisation", "Score": 0.24192651525274717}
+{"SubjectEntityID": "Q319344", "SubjectEntity": "Abercrombie & Fitch", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "CompanyHasParentOrganisation", "Score": 0.22344488408342988}

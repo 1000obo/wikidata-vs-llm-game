@@ -1,0 +1,10 @@
+{"SubjectEntityID": "Q919527", "SubjectEntity": "Tom Brokaw", "ObjectEntities": ["English"], "ObjectEntitiesID": ["Q1860"], "Relation": "PersonSpeaksLanguage", "Score": 0.8295955882352941}
+{"SubjectEntityID": "Q57394", "SubjectEntity": "Nursultan Nazarbayev", "ObjectEntities": ["Russian", "Kazakh"], "ObjectEntitiesID": ["Q7737", "Q9252"], "Relation": "PersonSpeaksLanguage", "Score": 0.7741409266067707}
+{"SubjectEntityID": "Q207720", "SubjectEntity": "Mahmoud Darwish", "ObjectEntities": ["Hebrew", "Arabic"], "ObjectEntitiesID": ["Q9288", "Q13955"], "Relation": "PersonSpeaksLanguage", "Score": 0.723298338730328}
+{"SubjectEntityID": "Q192465", "SubjectEntity": "Chick Corea", "ObjectEntities": ["English"], "ObjectEntitiesID": ["Q1860"], "Relation": "PersonSpeaksLanguage", "Score": 0.6502243686380111}
+{"SubjectEntityID": "Q468449", "SubjectEntity": "Mariette Hartley", "ObjectEntities": ["English"], "ObjectEntitiesID": ["Q1860"], "Relation": "PersonSpeaksLanguage", "Score": 0.5234098416817975}
+{"SubjectEntityID": "Q7599711", "SubjectEntity": "Stanley Johnson", "ObjectEntities": ["French", "English"], "ObjectEntitiesID": ["Q150", "Q1860"], "Relation": "PersonSpeaksLanguage", "Score": 0.3778609429226448}
+{"SubjectEntityID": "Q333415", "SubjectEntity": "Ibrahim Babangida", "ObjectEntities": ["English", "Nigerian Pidgin", "Hausa", "Gbagyi"], "ObjectEntitiesID": ["Q1860", "Q33655", "Q56475", "Q11015105"], "Relation": "PersonSpeaksLanguage", "Score": 0.3745020104212612}
+{"SubjectEntityID": "Q65321", "SubjectEntity": "Wolfgang Petersen", "ObjectEntities": ["German", "English"], "ObjectEntitiesID": ["Q188", "Q1860"], "Relation": "PersonSpeaksLanguage", "Score": 0.3617299525604276}
+{"SubjectEntityID": "Q353690", "SubjectEntity": "Adel Emam", "ObjectEntities": ["Arabic"], "ObjectEntitiesID": ["Q13955"], "Relation": "PersonSpeaksLanguage", "Score": 0.3334658709733553}
+{"SubjectEntityID": "Q356383", "SubjectEntity": "Jack Thompson", "ObjectEntities": ["English"], "ObjectEntitiesID": ["Q1860"], "Relation": "PersonSpeaksLanguage", "Score": 0.26637042519103526}

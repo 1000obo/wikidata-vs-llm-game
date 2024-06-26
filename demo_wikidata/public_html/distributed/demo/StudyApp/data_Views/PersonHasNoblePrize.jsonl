@@ -1,0 +1,93 @@
+{"SubjectEntityID": "Q25369", "SubjectEntity": "Kobe Bryant", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 6760470}
+{"SubjectEntityID": "Q54314", "SubjectEntity": "Chris Hemsworth", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 6360251}
+{"SubjectEntityID": "Q36812", "SubjectEntity": "William, Prince of Wales", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 5921090}
+{"SubjectEntityID": "Q42493", "SubjectEntity": "Katy Perry", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 5326367}
+{"SubjectEntityID": "Q2087610", "SubjectEntity": "Mahesh Babu", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 2719424}
+{"SubjectEntityID": "Q17712353", "SubjectEntity": "Nayib Bukele", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 1745916}
+{"SubjectEntityID": "Q231096", "SubjectEntity": "L\u00e9a Seydoux", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 1669512}
+{"SubjectEntityID": "Q3418709", "SubjectEntity": "Rana Daggubati", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 1273551}
+{"SubjectEntityID": "Q13628723", "SubjectEntity": "Jared Kushner", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 1084722}
+{"SubjectEntityID": "Q42013", "SubjectEntity": "Anwar Sadat", "ObjectEntities": ["Nobel Peace Prize"], "ObjectEntitiesID": ["Q35637"], "Relation": "PersonHasNoblePrize", "Views": 884247}
+{"SubjectEntityID": "Q156586", "SubjectEntity": "Naomie Harris", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 856739}
+{"SubjectEntityID": "Q242555", "SubjectEntity": "Mamie Gummer", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 840456}
+{"SubjectEntityID": "Q232384", "SubjectEntity": "Carice van Houten", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 808967}
+{"SubjectEntityID": "Q1190693", "SubjectEntity": "Jack Huston", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 797932}
+{"SubjectEntityID": "Q61238", "SubjectEntity": "Nina Hoss", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 595362}
+{"SubjectEntityID": "Q34189", "SubjectEntity": "Pablo Neruda", "ObjectEntities": ["Nobel Prize in Literature"], "ObjectEntitiesID": ["Q37922"], "Relation": "PersonHasNoblePrize", "Views": 576769}
+{"SubjectEntityID": "Q11869065", "SubjectEntity": "Kaja Kallas", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 536545}
+{"SubjectEntityID": "Q3764579", "SubjectEntity": "Gopichand", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 534191}
+{"SubjectEntityID": "Q1254", "SubjectEntity": "Kofi Annan", "ObjectEntities": ["Nobel Peace Prize"], "ObjectEntitiesID": ["Q35637"], "Relation": "PersonHasNoblePrize", "Views": 523546}
+{"SubjectEntityID": "Q208466", "SubjectEntity": "Charlene, Princess of Monaco", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 491625}
+{"SubjectEntityID": "Q48983", "SubjectEntity": "Linus Pauling", "ObjectEntities": ["Nobel Peace Prize", "Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q35637", "Q44585"], "Relation": "PersonHasNoblePrize", "Views": 425105}
+{"SubjectEntityID": "Q7504", "SubjectEntity": "Ir\u00e8ne Joliot-Curie", "ObjectEntities": ["Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q44585"], "Relation": "PersonHasNoblePrize", "Views": 363866}
+{"SubjectEntityID": "Q5217793", "SubjectEntity": "Daniel Kerr", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 295058}
+{"SubjectEntityID": "Q163415", "SubjectEntity": "William Shockley", "ObjectEntities": ["Nobel Prize in Physics"], "ObjectEntitiesID": ["Q38104"], "Relation": "PersonHasNoblePrize", "Views": 278521}
+{"SubjectEntityID": "Q323320", "SubjectEntity": "Kip S. Thorne", "ObjectEntities": ["Nobel Prize in Physics"], "ObjectEntitiesID": ["Q38104"], "Relation": "PersonHasNoblePrize", "Views": 266414}
+{"SubjectEntityID": "Q21064132", "SubjectEntity": "Adar Poonawalla", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 261889}
+{"SubjectEntityID": "Q57065", "SubjectEntity": "Otto Hahn", "ObjectEntities": ["Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q44585"], "Relation": "PersonHasNoblePrize", "Views": 210866}
+{"SubjectEntityID": "Q5225528", "SubjectEntity": "Darshan Thoogudeepa", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 204279}
+{"SubjectEntityID": "Q107462", "SubjectEntity": "Har Gobind Khorana", "ObjectEntities": ["Nobel Prize in Physiology or Medicine"], "ObjectEntitiesID": ["Q80061"], "Relation": "PersonHasNoblePrize", "Views": 170702}
+{"SubjectEntityID": "Q60061", "SubjectEntity": "Venkatraman Ramakrishnan", "ObjectEntities": ["Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q44585"], "Relation": "PersonHasNoblePrize", "Views": 142793}
+{"SubjectEntityID": "Q359548", "SubjectEntity": "Jonathan Safran Foer", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 137026}
+{"SubjectEntityID": "Q202979", "SubjectEntity": "Cordell Hull", "ObjectEntities": ["Nobel Peace Prize"], "ObjectEntitiesID": ["Q35637"], "Relation": "PersonHasNoblePrize", "Views": 113680}
+{"SubjectEntityID": "Q57311", "SubjectEntity": "Juan Manuel Santos", "ObjectEntities": ["Nobel Peace Prize"], "ObjectEntitiesID": ["Q35637"], "Relation": "PersonHasNoblePrize", "Views": 111201}
+{"SubjectEntityID": "Q127944", "SubjectEntity": "Arthur Compton", "ObjectEntities": ["Nobel Prize in Physics"], "ObjectEntitiesID": ["Q38104"], "Relation": "PersonHasNoblePrize", "Views": 108976}
+{"SubjectEntityID": "Q172466", "SubjectEntity": "Steven Chu", "ObjectEntities": ["Nobel Prize in Physics"], "ObjectEntitiesID": ["Q38104"], "Relation": "PersonHasNoblePrize", "Views": 101662}
+{"SubjectEntityID": "Q17478000", "SubjectEntity": "Iv\u00e1n Duque", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 88297}
+{"SubjectEntityID": "Q212955", "SubjectEntity": "Albert John Mvumbi Luthuli", "ObjectEntities": ["Nobel Peace Prize"], "ObjectEntitiesID": ["Q35637"], "Relation": "PersonHasNoblePrize", "Views": 88155}
+{"SubjectEntityID": "Q202136", "SubjectEntity": "Barry Marshall", "ObjectEntities": ["Nobel Prize in Physiology or Medicine"], "ObjectEntitiesID": ["Q80061"], "Relation": "PersonHasNoblePrize", "Views": 87703}
+{"SubjectEntityID": "Q183509", "SubjectEntity": "Ilya Prigogine", "ObjectEntities": ["Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q44585"], "Relation": "PersonHasNoblePrize", "Views": 76742}
+{"SubjectEntityID": "Q19895462", "SubjectEntity": "Iyabo Ojo", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 75653}
+{"SubjectEntityID": "Q1036131", "SubjectEntity": "Dan Snaith", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 74877}
+{"SubjectEntityID": "Q193000", "SubjectEntity": "Bruno Alves", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 73708}
+{"SubjectEntityID": "Q1661394", "SubjectEntity": "Lolita Chammah", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 64623}
+{"SubjectEntityID": "Q57067", "SubjectEntity": "Max von Laue", "ObjectEntities": ["Nobel Prize in Physics"], "ObjectEntitiesID": ["Q38104"], "Relation": "PersonHasNoblePrize", "Views": 57040}
+{"SubjectEntityID": "Q635785", "SubjectEntity": "Erin Phillips", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 54144}
+{"SubjectEntityID": "Q153890", "SubjectEntity": "Niko Tinbergen", "ObjectEntities": ["Nobel Prize in Physiology or Medicine"], "ObjectEntitiesID": ["Q80061"], "Relation": "PersonHasNoblePrize", "Views": 52585}
+{"SubjectEntityID": "Q107037", "SubjectEntity": "Leymah Gbowee", "ObjectEntities": ["Nobel Peace Prize"], "ObjectEntitiesID": ["Q35637"], "Relation": "PersonHasNoblePrize", "Views": 50843}
+{"SubjectEntityID": "Q218823", "SubjectEntity": "Joshua Lederberg", "ObjectEntities": ["Nobel Prize in Physiology or Medicine"], "ObjectEntitiesID": ["Q80061"], "Relation": "PersonHasNoblePrize", "Views": 36070}
+{"SubjectEntityID": "Q6914509", "SubjectEntity": "Morten P. Meldal", "ObjectEntities": ["Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q44585"], "Relation": "PersonHasNoblePrize", "Views": 35292}
+{"SubjectEntityID": "Q231402", "SubjectEntity": "Jacques Monod", "ObjectEntities": ["Nobel Prize in Physiology or Medicine"], "ObjectEntitiesID": ["Q80061"], "Relation": "PersonHasNoblePrize", "Views": 34082}
+{"SubjectEntityID": "Q109588", "SubjectEntity": "Serge Haroche", "ObjectEntities": ["Nobel Prize in Physics"], "ObjectEntitiesID": ["Q38104"], "Relation": "PersonHasNoblePrize", "Views": 33766}
+{"SubjectEntityID": "Q155759", "SubjectEntity": "Igor Tamm", "ObjectEntities": ["Nobel Prize in Physics"], "ObjectEntitiesID": ["Q38104"], "Relation": "PersonHasNoblePrize", "Views": 33084}
+{"SubjectEntityID": "Q167548", "SubjectEntity": "Elizaveta Boyarskaya", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 31134}
+{"SubjectEntityID": "Q42122", "SubjectEntity": "Tomas Transtr\u00f6mer", "ObjectEntities": ["Nobel Prize in Literature"], "ObjectEntitiesID": ["Q37922"], "Relation": "PersonHasNoblePrize", "Views": 28684}
+{"SubjectEntityID": "Q273223", "SubjectEntity": "John Eccles", "ObjectEntities": ["Nobel Prize in Physiology or Medicine"], "ObjectEntitiesID": ["Q80061"], "Relation": "PersonHasNoblePrize", "Views": 27794}
+{"SubjectEntityID": "Q661410", "SubjectEntity": "Shinjir\u014d Koizumi", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 27681}
+{"SubjectEntityID": "Q3218807", "SubjectEntity": "Laure de Clermont-Tonnerre", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 26665}
+{"SubjectEntityID": "Q53620", "SubjectEntity": "Hjalmar Branting", "ObjectEntities": ["Nobel Peace Prize"], "ObjectEntitiesID": ["Q35637"], "Relation": "PersonHasNoblePrize", "Views": 25953}
+{"SubjectEntityID": "Q232873", "SubjectEntity": "Ren\u00e9 Cassin", "ObjectEntities": ["Nobel Peace Prize"], "ObjectEntitiesID": ["Q35637"], "Relation": "PersonHasNoblePrize", "Views": 24911}
+{"SubjectEntityID": "Q191922", "SubjectEntity": "Frederick Reines", "ObjectEntities": ["Nobel Prize in Physics"], "ObjectEntitiesID": ["Q38104"], "Relation": "PersonHasNoblePrize", "Views": 23805}
+{"SubjectEntityID": "Q207992", "SubjectEntity": "Peter D. Mitchell", "ObjectEntities": ["Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q44585"], "Relation": "PersonHasNoblePrize", "Views": 23743}
+{"SubjectEntityID": "Q4317038", "SubjectEntity": "Zhanna Nemtsova", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 23410}
+{"SubjectEntityID": "Q295644", "SubjectEntity": "David H. Hubel", "ObjectEntities": ["Nobel Prize in Physiology or Medicine"], "ObjectEntitiesID": ["Q80061"], "Relation": "PersonHasNoblePrize", "Views": 22338}
+{"SubjectEntityID": "Q80910", "SubjectEntity": "Robert Lefkowitz", "ObjectEntities": ["Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q44585"], "Relation": "PersonHasNoblePrize", "Views": 22169}
+{"SubjectEntityID": "Q115475", "SubjectEntity": "Paul Hermann M\u00fcller", "ObjectEntities": ["Nobel Prize in Physiology or Medicine"], "ObjectEntitiesID": ["Q80061"], "Relation": "PersonHasNoblePrize", "Views": 20294}
+{"SubjectEntityID": "Q446842", "SubjectEntity": "M\u00e9lanie Doutey", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 19216}
+{"SubjectEntityID": "Q1351105", "SubjectEntity": "Eric Betzig", "ObjectEntities": ["Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q44585"], "Relation": "PersonHasNoblePrize", "Views": 19066}
+{"SubjectEntityID": "Q223542", "SubjectEntity": "Allan McLeod Cormack", "ObjectEntities": ["Nobel Prize in Physiology or Medicine"], "ObjectEntitiesID": ["Q80061"], "Relation": "PersonHasNoblePrize", "Views": 18323}
+{"SubjectEntityID": "Q1886068", "SubjectEntity": "Tomas Lindahl", "ObjectEntities": ["Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q44585"], "Relation": "PersonHasNoblePrize", "Views": 18069}
+{"SubjectEntityID": "Q133222", "SubjectEntity": "Clinton Davisson", "ObjectEntities": ["Nobel Prize in Physics"], "ObjectEntitiesID": ["Q38104"], "Relation": "PersonHasNoblePrize", "Views": 17783}
+{"SubjectEntityID": "Q83552", "SubjectEntity": "Alexander Prokhorov", "ObjectEntities": ["Nobel Prize in Physics"], "ObjectEntitiesID": ["Q38104"], "Relation": "PersonHasNoblePrize", "Views": 17687}
+{"SubjectEntityID": "Q252420", "SubjectEntity": "International Peace Bureau", "ObjectEntities": ["Nobel Peace Prize"], "ObjectEntitiesID": ["Q35637"], "Relation": "PersonHasNoblePrize", "Views": 16286}
+{"SubjectEntityID": "Q295706", "SubjectEntity": "Daniel Nathans", "ObjectEntities": ["Nobel Prize in Physiology or Medicine"], "ObjectEntitiesID": ["Q80061"], "Relation": "PersonHasNoblePrize", "Views": 16129}
+{"SubjectEntityID": "Q978898", "SubjectEntity": "Pedro Luiz de Orleans e Bragan\u00e7a", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 16029}
+{"SubjectEntityID": "Q6795728", "SubjectEntity": "Maximilian Riedel", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 15294}
+{"SubjectEntityID": "Q129173", "SubjectEntity": "Verner von Heidenstam", "ObjectEntities": ["Nobel Prize in Literature"], "ObjectEntitiesID": ["Q37922"], "Relation": "PersonHasNoblePrize", "Views": 14952}
+{"SubjectEntityID": "Q201470", "SubjectEntity": "Richard E. Taylor", "ObjectEntities": ["Nobel Prize in Physics"], "ObjectEntitiesID": ["Q38104"], "Relation": "PersonHasNoblePrize", "Views": 14520}
+{"SubjectEntityID": "Q135154", "SubjectEntity": "John Cornforth", "ObjectEntities": ["Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q44585"], "Relation": "PersonHasNoblePrize", "Views": 14218}
+{"SubjectEntityID": "Q274128", "SubjectEntity": "Geoffrey Wilkinson", "ObjectEntities": ["Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q44585"], "Relation": "PersonHasNoblePrize", "Views": 13978}
+{"SubjectEntityID": "Q3169751", "SubjectEntity": "Jean-Pierre Sauvage", "ObjectEntities": ["Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q44585"], "Relation": "PersonHasNoblePrize", "Views": 12585}
+{"SubjectEntityID": "Q102395", "SubjectEntity": "Paul D. Boyer", "ObjectEntities": ["Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q44585"], "Relation": "PersonHasNoblePrize", "Views": 12247}
+{"SubjectEntityID": "Q109731", "SubjectEntity": "Edwin G. Krebs", "ObjectEntities": ["Nobel Prize in Physiology or Medicine"], "ObjectEntitiesID": ["Q80061"], "Relation": "PersonHasNoblePrize", "Views": 10873}
+{"SubjectEntityID": "Q2366466", "SubjectEntity": "Ville Niinist\u00f6", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 10668}
+{"SubjectEntityID": "Q1385700", "SubjectEntity": "John Grahame", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 9376}
+{"SubjectEntityID": "Q77086", "SubjectEntity": "Hartmut Michel", "ObjectEntities": ["Nobel Prize in Chemistry"], "ObjectEntitiesID": ["Q44585"], "Relation": "PersonHasNoblePrize", "Views": 8922}
+{"SubjectEntityID": "Q361454", "SubjectEntity": "Pavel Eljanov", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 7685}
+{"SubjectEntityID": "Q231327", "SubjectEntity": "Kristina \u0160migun-V\u00e4hi", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 6042}
+{"SubjectEntityID": "Q17364425", "SubjectEntity": "Mercedes Gamero", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 5050}
+{"SubjectEntityID": "Q18637182", "SubjectEntity": "Bikiya Graham-Douglas", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 3096}
+{"SubjectEntityID": "Q1481457", "SubjectEntity": "Tomass Dukurs", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 2560}
+{"SubjectEntityID": "Q4685223", "SubjectEntity": "Adrian Miedzi\u0144ski", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 1884}
+{"SubjectEntityID": "Q13052136", "SubjectEntity": "Aram Pachyan", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 1604}
+{"SubjectEntityID": "Q2316242", "SubjectEntity": "Vencislav Simeonov", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonHasNoblePrize", "Views": 998}

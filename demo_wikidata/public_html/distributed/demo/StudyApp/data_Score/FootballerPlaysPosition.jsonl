@@ -1,0 +1,10 @@
+{"SubjectEntityID": "Q150268", "SubjectEntity": "David de Gea", "ObjectEntities": ["goalkeeper"], "ObjectEntitiesID": ["Q201330"], "Relation": "FootballerPlaysPosition", "Score": 0.7738337652721214}
+{"SubjectEntityID": "Q42731", "SubjectEntity": "Fernando Torres", "ObjectEntities": ["forward"], "ObjectEntitiesID": ["Q280658"], "Relation": "FootballerPlaysPosition", "Score": 0.6993446315082933}
+{"SubjectEntityID": "Q174614", "SubjectEntity": "Carlo Ancelotti", "ObjectEntities": ["midfielder"], "ObjectEntitiesID": ["Q193592"], "Relation": "FootballerPlaysPosition", "Score": 0.683311931069721}
+{"SubjectEntityID": "Q129700", "SubjectEntity": "Mario Balotelli", "ObjectEntities": ["forward"], "ObjectEntitiesID": ["Q280658"], "Relation": "FootballerPlaysPosition", "Score": 0.5590992361347431}
+{"SubjectEntityID": "Q111366053", "SubjectEntity": "Alejandro Garnacho", "ObjectEntities": ["wing half"], "ObjectEntitiesID": ["Q8025128"], "Relation": "FootballerPlaysPosition", "Score": 0.5017593391167768}
+{"SubjectEntityID": "Q1911", "SubjectEntity": "Olivier Giroud", "ObjectEntities": ["forward"], "ObjectEntitiesID": ["Q280658"], "Relation": "FootballerPlaysPosition", "Score": 0.4972106775314253}
+{"SubjectEntityID": "Q482947", "SubjectEntity": "Nani", "ObjectEntities": ["wing half"], "ObjectEntitiesID": ["Q8025128"], "Relation": "FootballerPlaysPosition", "Score": 0.4950437450538867}
+{"SubjectEntityID": "Q73360", "SubjectEntity": "Thibaut toisCour", "ObjectEntities": ["goalkeeper"], "ObjectEntitiesID": ["Q201330"], "Relation": "FootballerPlaysPosition", "Score": 0.43319013717380683}
+{"SubjectEntityID": "Q83006", "SubjectEntity": "David Villa", "ObjectEntities": ["forward"], "ObjectEntitiesID": ["Q280658"], "Relation": "FootballerPlaysPosition", "Score": 0.4265066158334654}
+{"SubjectEntityID": "Q46372260", "SubjectEntity": "Darwin N\u00fa\u00f1ez", "ObjectEntities": ["forward"], "ObjectEntitiesID": ["Q280658"], "Relation": "FootballerPlaysPosition", "Score": 0.3940081967736945}

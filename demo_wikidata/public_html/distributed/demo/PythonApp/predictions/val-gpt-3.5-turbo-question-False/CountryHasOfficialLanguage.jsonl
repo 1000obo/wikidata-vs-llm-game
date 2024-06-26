@@ -1,0 +1,10 @@
+{"SubjectEntityID": "Q34", "SubjectEntity": "Sweden", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["Swedish"], "ObjectEntitiesID": ["Q9027"], "Explanation": "", "Accepted": true}
+{"SubjectEntityID": "Q1036", "SubjectEntity": "Uganda", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["English", "Swahili"], "ObjectEntitiesID": ["Q1860", "Q7838"], "Explanation": "", "Accepted": true}
+{"SubjectEntityID": "Q826", "SubjectEntity": "Maldives", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["Dhivehi"], "ObjectEntitiesID": ["Q32656"], "Explanation": "", "Accepted": true}
+{"SubjectEntityID": "Q858", "SubjectEntity": "Syria", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["Arabic"], "ObjectEntitiesID": ["Q13955"], "Explanation": "", "Accepted": true}
+{"SubjectEntityID": "Q712", "SubjectEntity": "Fiji", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["Fijian", "English"], "ObjectEntitiesID": ["Q33295", "Q1860"], "Explanation": "", "Accepted": true}
+{"SubjectEntityID": "Q114", "SubjectEntity": "Kenya", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["Swahili", "English"], "ObjectEntitiesID": ["Q7838", "Q1860"], "Explanation": "", "Accepted": false}
+{"SubjectEntityID": "Q40", "SubjectEntity": "Austria", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["German"], "ObjectEntitiesID": ["Q188"], "Explanation": "", "Accepted": true}
+{"SubjectEntityID": "Q191", "SubjectEntity": "Estonia", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["Estonian"], "ObjectEntitiesID": ["Q9072"], "Explanation": "", "Accepted": true}
+{"SubjectEntityID": "Q783", "SubjectEntity": "Honduras", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["Spanish"], "ObjectEntitiesID": ["Q1321"], "Explanation": "", "Accepted": true}
+{"SubjectEntityID": "Q1019", "SubjectEntity": "Madagascar", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["Malagasy", "French"], "ObjectEntitiesID": ["Q7930", "Q150"], "Explanation": "", "Accepted": false}

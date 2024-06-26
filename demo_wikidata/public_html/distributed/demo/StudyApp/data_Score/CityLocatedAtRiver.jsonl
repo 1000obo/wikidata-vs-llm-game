@@ -1,0 +1,10 @@
+{"SubjectEntityID": "Q334", "SubjectEntity": "Singapore", "ObjectEntities": ["Singapore River"], "ObjectEntitiesID": ["Q1454776"], "Relation": "CityLocatedAtRiver", "Score": 1.0}
+{"SubjectEntityID": "Q220", "SubjectEntity": "Rome", "ObjectEntities": ["Aniene", "Tiber"], "ObjectEntitiesID": ["Q546600", "Q13712"], "Relation": "CityLocatedAtRiver", "Score": 0.5571881278506943}
+{"SubjectEntityID": "Q18125", "SubjectEntity": "Manchester", "ObjectEntities": ["River Irwell"], "ObjectEntitiesID": ["Q47901"], "Relation": "CityLocatedAtRiver", "Score": 0.46039706330259517}
+{"SubjectEntityID": "Q1930", "SubjectEntity": "Ottawa", "ObjectEntities": ["Ottawa River", "Rideau River"], "ObjectEntitiesID": ["Q60974", "Q280507"], "Relation": "CityLocatedAtRiver", "Score": 0.3701473225385069}
+{"SubjectEntityID": "Q1486", "SubjectEntity": "Buenos Aires", "ObjectEntities": ["R\u00edo de la Plata"], "ObjectEntitiesID": ["Q35827"], "Relation": "CityLocatedAtRiver", "Score": 0.33011978851878365}
+{"SubjectEntityID": "Q47916", "SubjectEntity": "Lucknow", "ObjectEntities": ["Gomti River"], "ObjectEntitiesID": ["Q477676"], "Relation": "CityLocatedAtRiver", "Score": 0.3225993141553684}
+{"SubjectEntityID": "Q1070", "SubjectEntity": "Ahmedabad", "ObjectEntities": ["Sabarmati"], "ObjectEntitiesID": ["Q630397"], "Relation": "CityLocatedAtRiver", "Score": 0.31616970351522033}
+{"SubjectEntityID": "Q85", "SubjectEntity": "Cairo", "ObjectEntities": ["Nile"], "ObjectEntitiesID": ["Q3392"], "Relation": "CityLocatedAtRiver", "Score": 0.30927408723248984}
+{"SubjectEntityID": "Q187805", "SubjectEntity": "Spokane", "ObjectEntities": ["Spokane River"], "ObjectEntitiesID": ["Q1275618"], "Relation": "CityLocatedAtRiver", "Score": 0.24520089519357857}
+{"SubjectEntityID": "Q472", "SubjectEntity": "Sofia", "ObjectEntities": ["Vladaya River", "Boyanska reka", "Perlovska", "Iskar", "Kakach River"], "ObjectEntitiesID": ["Q3657979", "Q4952232", "Q7169173", "Q217805", "Q83421498"], "Relation": "CityLocatedAtRiver", "Score": 0.2427245360226987}

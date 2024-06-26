@@ -1,0 +1,10 @@
+{"SubjectEntityID": "Q584", "SubjectEntity": "Rhine", "ObjectEntities": ["Switzerland", "Germany", "Netherlands", "France", "Liechtenstein"], "ObjectEntitiesID": ["Q39", "Q183", "Q55", "Q142", "Q347"], "Relation": "RiverBasinsCountry", "Score": 0.9478889873043992}
+{"SubjectEntityID": "Q2251", "SubjectEntity": "Columbia River", "ObjectEntities": ["Canada", "United States of America"], "ObjectEntitiesID": ["Q16", "Q30"], "Relation": "RiverBasinsCountry", "Score": 0.7366927532831711}
+{"SubjectEntityID": "Q626", "SubjectEntity": "Volga", "ObjectEntities": ["Russia"], "ObjectEntitiesID": ["Q159"], "Relation": "RiverBasinsCountry", "Score": 0.5364951031641292}
+{"SubjectEntityID": "Q179444", "SubjectEntity": "Potomac River", "ObjectEntities": ["United States of America"], "ObjectEntitiesID": ["Q30"], "Relation": "RiverBasinsCountry", "Score": 0.5039578839455072}
+{"SubjectEntityID": "Q40855", "SubjectEntity": "Dnieper", "ObjectEntities": ["Russia", "Ukraine", "Belarus"], "ObjectEntitiesID": ["Q159", "Q212", "Q184"], "Relation": "RiverBasinsCountry", "Score": 0.46207059009937}
+{"SubjectEntityID": "Q35591", "SubjectEntity": "Tigris", "ObjectEntities": ["Turkey"], "ObjectEntitiesID": ["Q43"], "Relation": "RiverBasinsCountry", "Score": 0.458650860159031}
+{"SubjectEntityID": "Q183078", "SubjectEntity": "Murray River", "ObjectEntities": ["Australia"], "ObjectEntitiesID": ["Q408"], "Relation": "RiverBasinsCountry", "Score": 0.3749170591672256}
+{"SubjectEntityID": "Q643", "SubjectEntity": "Po", "ObjectEntities": ["Italy", "Switzerland", "France"], "ObjectEntitiesID": ["Q38", "Q39", "Q142"], "Relation": "RiverBasinsCountry", "Score": 0.3162625493072666}
+{"SubjectEntityID": "Q548", "SubjectEntity": "Vistula", "ObjectEntities": ["Poland"], "ObjectEntitiesID": ["Q36"], "Relation": "RiverBasinsCountry", "Score": 0.3055295792984075}
+{"SubjectEntityID": "Q1644", "SubjectEntity": "Elbe", "ObjectEntities": ["Poland", "Austria", "Czech Republic", "Germany"], "ObjectEntitiesID": ["Q36", "Q40", "Q213", "Q183"], "Relation": "RiverBasinsCountry", "Score": 0.28733165046323644}

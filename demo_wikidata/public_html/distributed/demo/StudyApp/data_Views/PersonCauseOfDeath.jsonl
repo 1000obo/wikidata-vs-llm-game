@@ -1,0 +1,88 @@
+{"SubjectEntityID": "Q213864", "SubjectEntity": "Paul Walker", "ObjectEntities": ["traffic collision"], "ObjectEntitiesID": ["Q9687"], "Relation": "PersonCauseOfDeath", "Views": 5413766}
+{"SubjectEntityID": "Q2643", "SubjectEntity": "George Harrison", "ObjectEntities": ["lung cancer", "brain tumor"], "ObjectEntitiesID": ["Q47912", "Q233309"], "Relation": "PersonCauseOfDeath", "Views": 4288387}
+{"SubjectEntityID": "Q342549", "SubjectEntity": "Nathan Fillion", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 2288000}
+{"SubjectEntityID": "Q206833", "SubjectEntity": "Denise Richards", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 2255845}
+{"SubjectEntityID": "Q272012", "SubjectEntity": "Eddie Van Halen", "ObjectEntities": ["laryngeal cancer", "cerebral hemorrhage"], "ObjectEntitiesID": ["Q852423", "Q1368943"], "Relation": "PersonCauseOfDeath", "Views": 1902361}
+{"SubjectEntityID": "Q4730353", "SubjectEntity": "Allahpundit", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 1578165}
+{"SubjectEntityID": "Q345494", "SubjectEntity": "Ryuichi Sakamoto", "ObjectEntities": ["colorectal cancer"], "ObjectEntitiesID": ["Q188874"], "Relation": "PersonCauseOfDeath", "Views": 1335266}
+{"SubjectEntityID": "Q320523", "SubjectEntity": "Grant Imahara", "ObjectEntities": ["intracranial aneurysm"], "ObjectEntitiesID": ["Q1198391"], "Relation": "PersonCauseOfDeath", "Views": 1216463}
+{"SubjectEntityID": "Q979131", "SubjectEntity": "Louis Theroux", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 1010814}
+{"SubjectEntityID": "Q351156", "SubjectEntity": "Adam West", "ObjectEntities": ["leukemia"], "ObjectEntitiesID": ["Q29496"], "Relation": "PersonCauseOfDeath", "Views": 940690}
+{"SubjectEntityID": "Q5285012", "SubjectEntity": "Diya Kumari", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 924537}
+{"SubjectEntityID": "Q46248", "SubjectEntity": "Terry Pratchett", "ObjectEntities": ["Posterior cortical atrophy", "Alzheimer's disease"], "ObjectEntitiesID": ["Q2869816", "Q11081"], "Relation": "PersonCauseOfDeath", "Views": 888636}
+{"SubjectEntityID": "Q741909", "SubjectEntity": "Chris Kattan", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 864237}
+{"SubjectEntityID": "Q281294", "SubjectEntity": "Jules Bianchi", "ObjectEntities": ["diffuse axonal injury"], "ObjectEntitiesID": ["Q2658686"], "Relation": "PersonCauseOfDeath", "Views": 815804}
+{"SubjectEntityID": "Q363717", "SubjectEntity": "Jonah Lomu", "ObjectEntities": ["nephrotic syndrome", "kidney failure", "cardiac arrest"], "ObjectEntitiesID": ["Q504790", "Q476921", "Q202837"], "Relation": "PersonCauseOfDeath", "Views": 580405}
+{"SubjectEntityID": "Q104859", "SubjectEntity": "Michael Collins", "ObjectEntities": ["cancer"], "ObjectEntitiesID": ["Q12078"], "Relation": "PersonCauseOfDeath", "Views": 573742}
+{"SubjectEntityID": "Q174438", "SubjectEntity": "Madeleine Albright", "ObjectEntities": ["cancer"], "ObjectEntitiesID": ["Q12078"], "Relation": "PersonCauseOfDeath", "Views": 565548}
+{"SubjectEntityID": "Q3629480", "SubjectEntity": "Arun Jaitley", "ObjectEntities": ["cancer"], "ObjectEntitiesID": ["Q12078"], "Relation": "PersonCauseOfDeath", "Views": 541365}
+{"SubjectEntityID": "Q44683", "SubjectEntity": "Chavo Guerrero, Jr.", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 500178}
+{"SubjectEntityID": "Q43380465", "SubjectEntity": "Michael Avenatti", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 469453}
+{"SubjectEntityID": "Q7488834", "SubjectEntity": "Shannon Bream", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 424390}
+{"SubjectEntityID": "Q222031", "SubjectEntity": "Aleksandar Vu\u010di\u0107", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 415619}
+{"SubjectEntityID": "Q352246", "SubjectEntity": "B-Real", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 390338}
+{"SubjectEntityID": "Q275625", "SubjectEntity": "Susan Tedeschi", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 356760}
+{"SubjectEntityID": "Q551478", "SubjectEntity": "Charlie Daniels", "ObjectEntities": ["stroke"], "ObjectEntitiesID": ["Q12202"], "Relation": "PersonCauseOfDeath", "Views": 336558}
+{"SubjectEntityID": "Q1342961", "SubjectEntity": "Haruma Miura", "ObjectEntities": ["hanging"], "ObjectEntitiesID": ["Q175111"], "Relation": "PersonCauseOfDeath", "Views": 311683}
+{"SubjectEntityID": "Q449048", "SubjectEntity": "Derren Brown", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 303654}
+{"SubjectEntityID": "Q738404", "SubjectEntity": "Juan Gabriel", "ObjectEntities": ["myocardial infarction"], "ObjectEntitiesID": ["Q12152"], "Relation": "PersonCauseOfDeath", "Views": 297324}
+{"SubjectEntityID": "Q6755544", "SubjectEntity": "Marc Evan Jackson", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 256367}
+{"SubjectEntityID": "Q238168", "SubjectEntity": "Nicole de Boer", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 225644}
+{"SubjectEntityID": "Q1399671", "SubjectEntity": "Ravi Zacharias", "ObjectEntities": ["spinal cancer"], "ObjectEntitiesID": ["Q18556900"], "Relation": "PersonCauseOfDeath", "Views": 218116}
+{"SubjectEntityID": "Q7613869", "SubjectEntity": "Steve Schmidt", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 206680}
+{"SubjectEntityID": "Q1154246", "SubjectEntity": "DJ Quik", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 199975}
+{"SubjectEntityID": "Q319553", "SubjectEntity": "Nicky Hayden", "ObjectEntities": ["bicycle accident"], "ObjectEntitiesID": ["Q15809226"], "Relation": "PersonCauseOfDeath", "Views": 160119}
+{"SubjectEntityID": "Q3621587", "SubjectEntity": "Yurizan Beltran", "ObjectEntities": ["drug overdose"], "ObjectEntitiesID": ["Q3505252"], "Relation": "PersonCauseOfDeath", "Views": 154282}
+{"SubjectEntityID": "Q111970097", "SubjectEntity": "Deborah James", "ObjectEntities": ["colorectal cancer"], "ObjectEntitiesID": ["Q188874"], "Relation": "PersonCauseOfDeath", "Views": 146472}
+{"SubjectEntityID": "Q5388188", "SubjectEntity": "Erick Thohir", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 126844}
+{"SubjectEntityID": "Q28256", "SubjectEntity": "Chris Broderick", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 119711}
+{"SubjectEntityID": "Q352422", "SubjectEntity": "Mike Gravel", "ObjectEntities": ["multiple myeloma"], "ObjectEntitiesID": ["Q467635"], "Relation": "PersonCauseOfDeath", "Views": 98610}
+{"SubjectEntityID": "Q7279267", "SubjectEntity": "Rachel Held Evans", "ObjectEntities": ["cerebral edema"], "ObjectEntitiesID": ["Q979168"], "Relation": "PersonCauseOfDeath", "Views": 87738}
+{"SubjectEntityID": "Q726206", "SubjectEntity": "Eric Whitacre", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 86347}
+{"SubjectEntityID": "Q270075", "SubjectEntity": "Ronald de Boer", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 84608}
+{"SubjectEntityID": "Q2663804", "SubjectEntity": "Gilad Erdan", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 69394}
+{"SubjectEntityID": "Q28540326", "SubjectEntity": "Matthias Maurer", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 63707}
+{"SubjectEntityID": "Q16202987", "SubjectEntity": "Manisha Yadav", "ObjectEntities": ["angina pectoris"], "ObjectEntitiesID": ["Q180762"], "Relation": "PersonCauseOfDeath", "Views": 62731}
+{"SubjectEntityID": "Q3498466", "SubjectEntity": "Stephanie Rawlings-Blake", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 56590}
+{"SubjectEntityID": "Q30339422", "SubjectEntity": "Ya\u00ebl Braun-Pivet", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 55166}
+{"SubjectEntityID": "Q1991258", "SubjectEntity": "Paola Turbay", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 50475}
+{"SubjectEntityID": "Q38849", "SubjectEntity": "Shintar\u014d Ishihara", "ObjectEntities": ["pancreatic cancer"], "ObjectEntitiesID": ["Q212961"], "Relation": "PersonCauseOfDeath", "Views": 49585}
+{"SubjectEntityID": "Q542368", "SubjectEntity": "Sibel Can", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 47849}
+{"SubjectEntityID": "Q3288950", "SubjectEntity": "Erik Rubin", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 46655}
+{"SubjectEntityID": "Q1293321", "SubjectEntity": "Patricia Manterola", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 42681}
+{"SubjectEntityID": "Q448320", "SubjectEntity": "David Saint-Jacques", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 37253}
+{"SubjectEntityID": "Q331711", "SubjectEntity": "Mustafa Sandal", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 36176}
+{"SubjectEntityID": "Q433124", "SubjectEntity": "Ingrid Vandebosch", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 32142}
+{"SubjectEntityID": "Q467750", "SubjectEntity": "Lynn Okamoto", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 30067}
+{"SubjectEntityID": "Q19609869", "SubjectEntity": "Chandro Tomar", "ObjectEntities": ["COVID-19"], "ObjectEntitiesID": ["Q84263196"], "Relation": "PersonCauseOfDeath", "Views": 29373}
+{"SubjectEntityID": "Q6835618", "SubjectEntity": "Michaela Pereira", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 24406}
+{"SubjectEntityID": "Q12600918", "SubjectEntity": "Seo Min-woo", "ObjectEntities": ["cardiac arrest"], "ObjectEntitiesID": ["Q202837"], "Relation": "PersonCauseOfDeath", "Views": 23541}
+{"SubjectEntityID": "Q5107121", "SubjectEntity": "Chris Kirubi", "ObjectEntities": ["colorectal cancer"], "ObjectEntitiesID": ["Q188874"], "Relation": "PersonCauseOfDeath", "Views": 19597}
+{"SubjectEntityID": "Q6164474", "SubjectEntity": "Vladimir Cerr\u00f3n", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 19544}
+{"SubjectEntityID": "Q16733690", "SubjectEntity": "Joseph Ole Lenku", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 15280}
+{"SubjectEntityID": "Q1105361", "SubjectEntity": "Gugu Liberato", "ObjectEntities": ["brain death"], "ObjectEntitiesID": ["Q223867"], "Relation": "PersonCauseOfDeath", "Views": 14938}
+{"SubjectEntityID": "Q4985101", "SubjectEntity": "Budiman Sudjatmiko", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 14332}
+{"SubjectEntityID": "Q7046248", "SubjectEntity": "Nobuteru Taniguchi", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 13581}
+{"SubjectEntityID": "Q16886393", "SubjectEntity": "Anne Waiguru", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 13527}
+{"SubjectEntityID": "Q4717426", "SubjectEntity": "Alex Maleev", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 11232}
+{"SubjectEntityID": "Q27501273", "SubjectEntity": "Sirwan Barzani", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 10452}
+{"SubjectEntityID": "Q5087149", "SubjectEntity": "Chase Jarvis", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 8343}
+{"SubjectEntityID": "Q4133927", "SubjectEntity": "M\u00e1rcio Garcia", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 6438}
+{"SubjectEntityID": "Q105883810", "SubjectEntity": "R\u00f3is\u00edn Ingle", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 5940}
+{"SubjectEntityID": "Q6163514", "SubjectEntity": "Jason Snell", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 5107}
+{"SubjectEntityID": "Q550333", "SubjectEntity": "Shinya Yamada", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 4564}
+{"SubjectEntityID": "Q11184187", "SubjectEntity": "Rogelio Frigerio", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 3932}
+{"SubjectEntityID": "Q55357013", "SubjectEntity": "Martha \u00c9rika Alonso Hidalgo", "ObjectEntities": ["2018 Puebla helicopter crash"], "ObjectEntitiesID": ["Q60139328"], "Relation": "PersonCauseOfDeath", "Views": 3929}
+{"SubjectEntityID": "Q2065232", "SubjectEntity": "Ra\u00fcl Romeva", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 3774}
+{"SubjectEntityID": "Q8072236", "SubjectEntity": "Zeina Yazigi", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 3565}
+{"SubjectEntityID": "Q543040", "SubjectEntity": "Jos\u00e9 Manuel de la Sota", "ObjectEntities": ["traffic collision"], "ObjectEntitiesID": ["Q9687"], "Relation": "PersonCauseOfDeath", "Views": 3556}
+{"SubjectEntityID": "Q3167188", "SubjectEntity": "Jean-Luc Lemoine", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 3310}
+{"SubjectEntityID": "Q17432294", "SubjectEntity": "\u0130smail K\u00fc\u00e7\u00fckkaya", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 2658}
+{"SubjectEntityID": "Q47499653", "SubjectEntity": "Kristina Halvorson", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 2265}
+{"SubjectEntityID": "Q32984830", "SubjectEntity": "David Martosko", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 1941}
+{"SubjectEntityID": "Q27786458", "SubjectEntity": "Clara Grima", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 1875}
+{"SubjectEntityID": "Q13365033", "SubjectEntity": "Hiroyuki Amano", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 1817}
+{"SubjectEntityID": "Q6393807", "SubjectEntity": "Keren Neubach", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 1570}
+{"SubjectEntityID": "Q10261620", "SubjectEntity": "Cristiana L\u00f4bo", "ObjectEntities": ["multiple myeloma"], "ObjectEntitiesID": ["Q467635"], "Relation": "PersonCauseOfDeath", "Views": 1539}
+{"SubjectEntityID": "Q20177265", "SubjectEntity": "Ali \u00d6zkaya", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 1100}
+{"SubjectEntityID": "Q4665660", "SubjectEntity": "Abdul Rahman al-Lahim", "ObjectEntities": [""], "ObjectEntitiesID": [""], "Relation": "PersonCauseOfDeath", "Views": 949}

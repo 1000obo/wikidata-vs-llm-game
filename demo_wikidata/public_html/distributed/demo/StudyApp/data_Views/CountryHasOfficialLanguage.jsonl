@@ -1,0 +1,65 @@
+{"SubjectEntityID": "Q16", "SubjectEntity": "Canada", "ObjectEntities": ["French", "English"], "ObjectEntitiesID": ["Q150", "Q1860"], "Relation": "CountryHasOfficialLanguage", "Views": 12409221}
+{"SubjectEntityID": "Q17", "SubjectEntity": "Japan", "ObjectEntities": ["Japanese"], "ObjectEntitiesID": ["Q5287"], "Relation": "CountryHasOfficialLanguage", "Views": 9298196}
+{"SubjectEntityID": "Q843", "SubjectEntity": "Pakistan", "ObjectEntities": ["Urdu", "English"], "ObjectEntitiesID": ["Q1617", "Q1860"], "Relation": "CountryHasOfficialLanguage", "Views": 8540048}
+{"SubjectEntityID": "Q851", "SubjectEntity": "Saudi Arabia", "ObjectEntities": ["Arabic"], "ObjectEntitiesID": ["Q13955"], "Relation": "CountryHasOfficialLanguage", "Views": 6456897}
+{"SubjectEntityID": "Q258", "SubjectEntity": "South Africa", "ObjectEntities": ["English", "Zulu", "Xhosa", "Afrikaans", "Venda", "Northern Sotho", "Swazi", "Tswana", "Tsonga", "Sesotho", "Southern Ndebele"], "ObjectEntitiesID": ["Q1860", "Q10179", "Q13218", "Q14196", "Q32704", "Q33890", "Q34014", "Q34137", "Q34327", "Q34340", "Q36785"], "Relation": "CountryHasOfficialLanguage", "Views": 6100919}
+{"SubjectEntityID": "Q155", "SubjectEntity": "Brazil", "ObjectEntities": ["Portuguese"], "ObjectEntitiesID": ["Q5146"], "Relation": "CountryHasOfficialLanguage", "Views": 5680309}
+{"SubjectEntityID": "Q189", "SubjectEntity": "Iceland", "ObjectEntities": ["Icelandic"], "ObjectEntitiesID": ["Q294"], "Relation": "CountryHasOfficialLanguage", "Views": 4692050}
+{"SubjectEntityID": "Q34", "SubjectEntity": "Sweden", "ObjectEntities": ["Swedish"], "ObjectEntitiesID": ["Q9027"], "Relation": "CountryHasOfficialLanguage", "Views": 4556899}
+{"SubjectEntityID": "Q423", "SubjectEntity": "North Korea", "ObjectEntities": ["Korean", "North Korean standard language"], "ObjectEntitiesID": ["Q9176", "Q18784"], "Relation": "CountryHasOfficialLanguage", "Views": 4232658}
+{"SubjectEntityID": "Q826", "SubjectEntity": "Maldives", "ObjectEntities": ["Maldivian"], "ObjectEntitiesID": ["Q32656"], "Relation": "CountryHasOfficialLanguage", "Views": 4214238}
+{"SubjectEntityID": "Q846", "SubjectEntity": "Qatar", "ObjectEntities": ["Arabic"], "ObjectEntitiesID": ["Q13955"], "Relation": "CountryHasOfficialLanguage", "Views": 3832140}
+{"SubjectEntityID": "Q403", "SubjectEntity": "Serbia", "ObjectEntities": ["Serbian"], "ObjectEntitiesID": ["Q9299"], "Relation": "CountryHasOfficialLanguage", "Views": 3818932}
+{"SubjectEntityID": "Q31", "SubjectEntity": "Belgium", "ObjectEntities": ["French", "German", "Dutch"], "ObjectEntitiesID": ["Q150", "Q188", "Q7411"], "Relation": "CountryHasOfficialLanguage", "Views": 3733261}
+{"SubjectEntityID": "Q40", "SubjectEntity": "Austria", "ObjectEntities": ["German", "Austrian Sign Language"], "ObjectEntitiesID": ["Q188", "Q36668"], "Relation": "CountryHasOfficialLanguage", "Views": 3545003}
+{"SubjectEntityID": "Q235", "SubjectEntity": "Monaco", "ObjectEntities": ["French"], "ObjectEntitiesID": ["Q150"], "Relation": "CountryHasOfficialLanguage", "Views": 3542275}
+{"SubjectEntityID": "Q858", "SubjectEntity": "Syria", "ObjectEntities": ["Arabic"], "ObjectEntitiesID": ["Q13955"], "Relation": "CountryHasOfficialLanguage", "Views": 3232984}
+{"SubjectEntityID": "Q32", "SubjectEntity": "Luxembourg", "ObjectEntities": ["French", "German", "Luxembourgish"], "ObjectEntitiesID": ["Q150", "Q188", "Q9051"], "Relation": "CountryHasOfficialLanguage", "Views": 3226228}
+{"SubjectEntityID": "Q184", "SubjectEntity": "Belarus", "ObjectEntities": ["Russian", "Belarusian"], "ObjectEntitiesID": ["Q7737", "Q9091"], "Relation": "CountryHasOfficialLanguage", "Views": 3197373}
+{"SubjectEntityID": "Q27", "SubjectEntity": "Republic of Ireland", "ObjectEntities": ["English", "Irish"], "ObjectEntitiesID": ["Q1860", "Q9142"], "Relation": "CountryHasOfficialLanguage", "Views": 2986198}
+{"SubjectEntityID": "Q974", "SubjectEntity": "Democratic Republic of the Congo", "ObjectEntities": ["French"], "ObjectEntitiesID": ["Q150"], "Relation": "CountryHasOfficialLanguage", "Views": 2948814}
+{"SubjectEntityID": "Q711", "SubjectEntity": "Mongolia", "ObjectEntities": ["Mongolian"], "ObjectEntitiesID": ["Q9246"], "Relation": "CountryHasOfficialLanguage", "Views": 2871020}
+{"SubjectEntityID": "Q265", "SubjectEntity": "Uzbekistan", "ObjectEntities": ["Uzbek"], "ObjectEntitiesID": ["Q9264"], "Relation": "CountryHasOfficialLanguage", "Views": 2806202}
+{"SubjectEntityID": "Q191", "SubjectEntity": "Estonia", "ObjectEntities": ["Estonian"], "ObjectEntitiesID": ["Q9072"], "Relation": "CountryHasOfficialLanguage", "Views": 2788883}
+{"SubjectEntityID": "Q786", "SubjectEntity": "Dominican Republic", "ObjectEntities": ["Spanish"], "ObjectEntitiesID": ["Q1321"], "Relation": "CountryHasOfficialLanguage", "Views": 2774924}
+{"SubjectEntityID": "Q262", "SubjectEntity": "Algeria", "ObjectEntities": ["Arabic", "Standard Algerian Berber"], "ObjectEntitiesID": ["Q13955", "Q61053330"], "Relation": "CountryHasOfficialLanguage", "Views": 2771365}
+{"SubjectEntityID": "Q114", "SubjectEntity": "Kenya", "ObjectEntities": ["English", "Swahili"], "ObjectEntitiesID": ["Q1860", "Q7838"], "Relation": "CountryHasOfficialLanguage", "Views": 2719082}
+{"SubjectEntityID": "Q717", "SubjectEntity": "Venezuela", "ObjectEntities": ["Spanish", "Venezuelan Sign Language"], "ObjectEntitiesID": ["Q1321", "Q3322064"], "Relation": "CountryHasOfficialLanguage", "Views": 2710496}
+{"SubjectEntityID": "Q842", "SubjectEntity": "Oman", "ObjectEntities": ["Arabic"], "ObjectEntitiesID": ["Q13955"], "Relation": "CountryHasOfficialLanguage", "Views": 2615323}
+{"SubjectEntityID": "Q924", "SubjectEntity": "Tanzania", "ObjectEntities": ["English", "Swahili"], "ObjectEntitiesID": ["Q1860", "Q7838"], "Relation": "CountryHasOfficialLanguage", "Views": 2562516}
+{"SubjectEntityID": "Q217", "SubjectEntity": "Moldova", "ObjectEntities": ["Romanian"], "ObjectEntitiesID": ["Q7913"], "Relation": "CountryHasOfficialLanguage", "Views": 2549438}
+{"SubjectEntityID": "Q766", "SubjectEntity": "Jamaica", "ObjectEntities": ["English"], "ObjectEntitiesID": ["Q1860"], "Relation": "CountryHasOfficialLanguage", "Views": 2545068}
+{"SubjectEntityID": "Q813", "SubjectEntity": "Kyrgyzstan", "ObjectEntities": ["Russian", "Kyrgyz"], "ObjectEntitiesID": ["Q7737", "Q9255"], "Relation": "CountryHasOfficialLanguage", "Views": 2474111}
+{"SubjectEntityID": "Q712", "SubjectEntity": "Fiji", "ObjectEntities": ["English", "Fijian", "Fiji Hindi"], "ObjectEntitiesID": ["Q1860", "Q33295", "Q46728"], "Relation": "CountryHasOfficialLanguage", "Views": 2469653}
+{"SubjectEntityID": "Q1019", "SubjectEntity": "Madagascar", "ObjectEntities": ["French", "Malagasy"], "ObjectEntitiesID": ["Q150", "Q7930"], "Relation": "CountryHasOfficialLanguage", "Views": 2454854}
+{"SubjectEntityID": "Q1016", "SubjectEntity": "Libya", "ObjectEntities": ["Arabic"], "ObjectEntitiesID": ["Q13955"], "Relation": "CountryHasOfficialLanguage", "Views": 2393753}
+{"SubjectEntityID": "Q298", "SubjectEntity": "Chile", "ObjectEntities": ["Spanish"], "ObjectEntitiesID": ["Q1321"], "Relation": "CountryHasOfficialLanguage", "Views": 2391239}
+{"SubjectEntityID": "Q221", "SubjectEntity": "North Macedonia", "ObjectEntities": ["Albanian", "Macedonian"], "ObjectEntitiesID": ["Q8748", "Q9296"], "Relation": "CountryHasOfficialLanguage", "Views": 2338272}
+{"SubjectEntityID": "Q730", "SubjectEntity": "Suriname", "ObjectEntities": ["Dutch"], "ObjectEntitiesID": ["Q7411"], "Relation": "CountryHasOfficialLanguage", "Views": 2272787}
+{"SubjectEntityID": "Q948", "SubjectEntity": "Tunisia", "ObjectEntities": ["Arabic"], "ObjectEntitiesID": ["Q13955"], "Relation": "CountryHasOfficialLanguage", "Views": 2272629}
+{"SubjectEntityID": "Q1036", "SubjectEntity": "Uganda", "ObjectEntities": ["English", "Swahili"], "ObjectEntitiesID": ["Q1860", "Q7838"], "Relation": "CountryHasOfficialLanguage", "Views": 2222353}
+{"SubjectEntityID": "Q874", "SubjectEntity": "Turkmenistan", "ObjectEntities": ["Turkmen"], "ObjectEntitiesID": ["Q9267"], "Relation": "CountryHasOfficialLanguage", "Views": 2173969}
+{"SubjectEntityID": "Q1030", "SubjectEntity": "Namibia", "ObjectEntities": ["English"], "ObjectEntitiesID": ["Q1860"], "Relation": "CountryHasOfficialLanguage", "Views": 2114784}
+{"SubjectEntityID": "Q419", "SubjectEntity": "Peru", "ObjectEntities": ["Spanish", "Aymara", "Quechua"], "ObjectEntitiesID": ["Q1321", "Q4627", "Q5218"], "Relation": "CountryHasOfficialLanguage", "Views": 2109079}
+{"SubjectEntityID": "Q1037", "SubjectEntity": "Rwanda", "ObjectEntities": ["French", "English", "Swahili", "Kinyarwanda"], "ObjectEntitiesID": ["Q150", "Q1860", "Q7838", "Q33573"], "Relation": "CountryHasOfficialLanguage", "Views": 2036601}
+{"SubjectEntityID": "Q965", "SubjectEntity": "Burkina Faso", "ObjectEntities": ["French"], "ObjectEntitiesID": ["Q150"], "Relation": "CountryHasOfficialLanguage", "Views": 1989861}
+{"SubjectEntityID": "Q244", "SubjectEntity": "Barbados", "ObjectEntities": ["English", "Bajan Creole"], "ObjectEntitiesID": ["Q1860", "Q2524014"], "Relation": "CountryHasOfficialLanguage", "Views": 1895428}
+{"SubjectEntityID": "Q774", "SubjectEntity": "Guatemala", "ObjectEntities": ["Spanish"], "ObjectEntitiesID": ["Q1321"], "Relation": "CountryHasOfficialLanguage", "Views": 1729824}
+{"SubjectEntityID": "Q77", "SubjectEntity": "Uruguay", "ObjectEntities": ["Spanish"], "ObjectEntitiesID": ["Q1321"], "Relation": "CountryHasOfficialLanguage", "Views": 1729393}
+{"SubjectEntityID": "Q811", "SubjectEntity": "Nicaragua", "ObjectEntities": ["Spanish"], "ObjectEntitiesID": ["Q1321"], "Relation": "CountryHasOfficialLanguage", "Views": 1725406}
+{"SubjectEntityID": "Q1050", "SubjectEntity": "Eswatini", "ObjectEntities": ["English", "Swazi"], "ObjectEntitiesID": ["Q1860", "Q34014"], "Relation": "CountryHasOfficialLanguage", "Views": 1685644}
+{"SubjectEntityID": "Q962", "SubjectEntity": "Benin", "ObjectEntities": ["French"], "ObjectEntitiesID": ["Q150"], "Relation": "CountryHasOfficialLanguage", "Views": 1666673}
+{"SubjectEntityID": "Q804", "SubjectEntity": "Panama", "ObjectEntities": ["Spanish"], "ObjectEntitiesID": ["Q1321"], "Relation": "CountryHasOfficialLanguage", "Views": 1583333}
+{"SubjectEntityID": "Q963", "SubjectEntity": "Botswana", "ObjectEntities": ["English"], "ObjectEntitiesID": ["Q1860"], "Relation": "CountryHasOfficialLanguage", "Views": 1558919}
+{"SubjectEntityID": "Q783", "SubjectEntity": "Honduras", "ObjectEntities": ["Spanish"], "ObjectEntitiesID": ["Q1321"], "Relation": "CountryHasOfficialLanguage", "Views": 1502824}
+{"SubjectEntityID": "Q967", "SubjectEntity": "Burundi", "ObjectEntities": ["French", "English", "Kirundi"], "ObjectEntitiesID": ["Q150", "Q1860", "Q33583"], "Relation": "CountryHasOfficialLanguage", "Views": 1397995}
+{"SubjectEntityID": "Q710", "SubjectEntity": "Kiribati", "ObjectEntities": ["English", "Gilbertese"], "ObjectEntitiesID": ["Q1860", "Q30898"], "Relation": "CountryHasOfficialLanguage", "Views": 1323862}
+{"SubjectEntityID": "Q695", "SubjectEntity": "Palau", "ObjectEntities": ["English", "Japanese", "Palauan"], "ObjectEntitiesID": ["Q1860", "Q5287", "Q33776"], "Relation": "CountryHasOfficialLanguage", "Views": 1214446}
+{"SubjectEntityID": "Q784", "SubjectEntity": "Dominica", "ObjectEntities": ["English"], "ObjectEntitiesID": ["Q1860"], "Relation": "CountryHasOfficialLanguage", "Views": 1193041}
+{"SubjectEntityID": "Q929", "SubjectEntity": "Central African Republic", "ObjectEntities": ["French", "Sango"], "ObjectEntitiesID": ["Q150", "Q33954"], "Relation": "CountryHasOfficialLanguage", "Views": 1189985}
+{"SubjectEntityID": "Q1006", "SubjectEntity": "Guinea", "ObjectEntities": ["French"], "ObjectEntitiesID": ["Q150"], "Relation": "CountryHasOfficialLanguage", "Views": 1155575}
+{"SubjectEntityID": "Q970", "SubjectEntity": "Comoros", "ObjectEntities": ["French", "Arabic", "Comorian"], "ObjectEntitiesID": ["Q150", "Q13955", "Q33077"], "Relation": "CountryHasOfficialLanguage", "Views": 936098}
+{"SubjectEntityID": "Q29999", "SubjectEntity": "Kingdom of the Netherlands", "ObjectEntities": ["Dutch"], "ObjectEntitiesID": ["Q7411"], "Relation": "CountryHasOfficialLanguage", "Views": 806702}
+{"SubjectEntityID": "Q757", "SubjectEntity": "Saint Vincent and the Grenadines", "ObjectEntities": ["English"], "ObjectEntitiesID": ["Q1860"], "Relation": "CountryHasOfficialLanguage", "Views": 743924}
+{"SubjectEntityID": "Q1039", "SubjectEntity": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", "ObjectEntities": ["Portuguese"], "ObjectEntitiesID": ["Q5146"], "Relation": "CountryHasOfficialLanguage", "Views": 711255}
+{"SubjectEntityID": "Q702", "SubjectEntity": "Federated States of Micronesia", "ObjectEntities": ["English"], "ObjectEntitiesID": ["Q1860"], "Relation": "CountryHasOfficialLanguage", "Views": 686843}
